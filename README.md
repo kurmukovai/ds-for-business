@@ -1,4 +1,4 @@
-# Materials for NRU HSE MAGOLEGO course Data Science for Business
+# Materials for NRU HSE MAGOLEGO course `Data Science for Business`
 
 ## Contacts:
 
