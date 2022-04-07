@@ -4,8 +4,9 @@
 
 - Leonid Zhukov (lectures) lzhukov@hse.ru
 - Anvar Kurmukov (seminars) kurmukovai@gmail.com (preferred), akurmukov@hse.ru
-- Telegram channel TODO
-- Youtube plalist with seminars TODO
+- Telegram channel (see invite link in email)
+- Zoom (see in email and in telegram chat)
+- Youtube playlist with seminars TODO
 - Youtube playlist with lectures TODO
 
 ## Syllabus
