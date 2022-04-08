@@ -11,7 +11,8 @@
 
 ## Syllabus
 
-TODO
+1. Seminar 1. Data visualization, graphs customization, EDA(1).
+2. Seminar 2. EDA(2), Handling categorical data and missing values, binary classification, regression
 
 ## Other
 
