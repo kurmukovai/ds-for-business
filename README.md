@@ -14,6 +14,7 @@
 2. Seminar 2. EDA(2), Handling categorical data and missing values, binary classification, regression
 3. Seminar 3. Sales example. Linear Regression, other regression models (Decision Tree, Random Forest, KNN), regression metrics
 4. Seminar 4. Churn prediction. Gradient boosting (CatBoost) example. ROC AUC.
+5. Seminar 5. Clustering and dimensionality reduction. KMeans, Hierarchical (agglomerative) clustering, Principle Component Analysis (PCA). Customers segmentation.
 
 ## Other
 
