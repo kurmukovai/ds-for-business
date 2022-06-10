@@ -6,7 +6,7 @@
 - Anvar Kurmukov (seminars) kurmukovai@gmail.com (preferred), akurmukov@hse.ru
 - Telegram channel (see invite link in email)
 - Zoom (see in email and in telegram chat)
-- Youtube playlist with seminars and lectures https://youtube.com/playlist?list=PLiptW-XRuYFVBsHegjC2xkUc_KzgBiM1p
+- Youtube playlist with seminars https://youtube.com/playlist?list=PLiptW-XRuYFVBsHegjC2xkUc_KzgBiM1p
 
 ## Syllabus
 
@@ -15,6 +15,10 @@
 3. Seminar 3. Sales example. Linear Regression, other regression models (Decision Tree, Random Forest, KNN), regression metrics
 4. Seminar 4. Churn prediction. Gradient boosting (CatBoost) example. ROC AUC.
 5. Seminar 5. Clustering and dimensionality reduction. KMeans, Hierarchical (agglomerative) clustering, Principle Component Analysis (PCA). Customers segmentation.
+6. Seminar 6. Recommender systems. 
+7. Seminar 7. Time series forecasting. Walmart sales prediction.
+8. Seminar 8. Introduction to A/B testing.
+9. Seminar 9. Agent based modelling. Emulating stock prices with Random Walk.
 
 ## Other
 
