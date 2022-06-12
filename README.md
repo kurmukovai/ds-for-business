@@ -3,7 +3,7 @@
 ## Contacts:
 
 - Leonid Zhukov (lectures) lzhukov@hse.ru
-- Anvar Kurmukov (seminars) kurmukovai@gmail.com (preferred), akurmukov@hse.ru
+- Anvar Kurmukov (seminars) kurmukovai@gmail.com
 - Telegram channel (see invite link in email)
 - Zoom (see in email and in telegram chat)
 - Youtube playlist with seminars https://youtube.com/playlist?list=PLiptW-XRuYFVBsHegjC2xkUc_KzgBiM1p
