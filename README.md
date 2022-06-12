@@ -7,6 +7,7 @@
 - Telegram channel (see invite link in email)
 - Zoom (see in email and in telegram chat)
 - Youtube playlist with seminars https://youtube.com/playlist?list=PLiptW-XRuYFVBsHegjC2xkUc_KzgBiM1p
+- Leonid's youtube channel with lecture videos https://www.youtube.com/c/LeonidZhukov
 
 ## Syllabus
 
