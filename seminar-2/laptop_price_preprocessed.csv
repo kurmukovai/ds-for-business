@@ -1,0 +1,1304 @@
+,laptop_ID,Company,TypeName,Inches,Ram,OpSys,Weight,Price_euros,height,width,Cpu Speed GHz,Cpu Company,has_SSD,has_HDD,GpuManufacturer
+0,1,Other,Ultrabook,13.3,8,Other,1.37,1339.69,2560,1600,2.3,Intel,1,0,Intel
+1,2,Other,Ultrabook,13.3,8,Other,1.34,898.94,1440,900,1.8,Intel,0,0,Intel
+2,3,HP,Notebook,15.6,8,Other,1.86,575.0,1920,1080,2.5,Intel,1,0,Intel
+3,4,Other,Ultrabook,15.4,16,Other,1.83,2537.45,2880,1800,2.7,Intel,1,0,AMD
+4,5,Other,Ultrabook,13.3,8,Other,1.37,1803.6,2560,1600,3.1,Intel,1,0,Intel
+5,6,Acer,Notebook,15.6,4,Windows 10,2.1,400.0,1366,768,3.0,AMD,0,1,AMD
+6,7,Other,Ultrabook,15.4,16,Other,2.04,2139.97,2880,1800,2.2,Intel,0,0,Intel
+7,8,Other,Ultrabook,13.3,8,Other,1.34,1158.7,1440,900,1.8,Intel,0,0,Intel
+8,9,Asus,Ultrabook,14.0,16,Windows 10,1.3,1495.0,1920,1080,1.8,Intel,1,0,Nvidia
+9,10,Acer,Ultrabook,14.0,8,Windows 10,1.6,770.0,1920,1080,1.6,Intel,1,0,Intel
+10,11,HP,Notebook,15.6,4,Other,1.86,393.9,1366,768,2.5,Intel,0,1,Intel
+11,12,HP,Notebook,15.6,4,Other,1.86,344.99,1920,1080,2.0,Intel,0,1,Intel
+12,13,Other,Ultrabook,15.4,16,Other,1.83,2439.97,2880,1800,2.8,Intel,1,0,AMD
+13,14,Dell,Notebook,15.6,4,Windows 10,2.2,498.9,1920,1080,2.0,Intel,1,0,AMD
+14,15,Other,Ultrabook,12.0,8,Other,0.92,1262.4,2304,1440,1.2,Intel,1,0,Intel
+15,16,Other,Ultrabook,13.3,8,Other,1.37,1518.55,2560,1600,2.3,Intel,1,0,Intel
+16,17,Dell,Notebook,15.6,8,Windows 10,2.2,745.0,1920,1080,2.7,Intel,1,0,AMD
+17,18,Other,Ultrabook,15.4,16,Other,1.83,2858.0,2880,1800,2.9,Intel,1,0,AMD
+18,19,Lenovo,Notebook,15.6,8,Other,2.2,499.0,1920,1080,2.4,Intel,0,1,Nvidia
+19,20,Dell,Ultrabook,13.3,8,Windows 10,1.22,979.0,1920,1080,1.6,Intel,1,0,Intel
+20,21,Asus,Netbook,11.6,2,Windows 10,0.98,191.9,1366,768,1.44,Intel,0,0,Intel
+21,22,Lenovo,Gaming,15.6,8,Windows 10,2.5,999.0,1920,1080,2.5,Intel,1,1,Nvidia
+22,23,HP,Notebook,15.6,4,Other,1.86,258.0,1366,768,1.5,AMD,0,1,AMD
+23,24,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,819.0,1920,1080,1.6,Intel,1,0,Intel
+24,25,HP,Ultrabook,15.6,8,Windows 10,1.91,659.0,1920,1080,1.8,Intel,1,0,Intel
+25,26,Dell,Notebook,15.6,4,Windows 10,2.3,418.64,1366,768,2.0,Intel,0,1,Intel
+26,27,Other,Ultrabook,13.3,8,Other,1.35,1099.0,1440,900,1.6,Intel,0,0,Intel
+27,28,Dell,Notebook,15.6,8,Windows 10,2.2,800.0,1920,1080,1.6,Intel,1,0,AMD
+28,29,Dell,Ultrabook,15.6,8,Windows 10,1.88,1298.0,1920,1080,1.9,Intel,1,0,Intel
+29,30,HP,Notebook,17.3,8,Windows 10,2.5,896.0,1920,1080,1.6,Intel,0,1,Nvidia
+30,31,Other,Notebook,15.6,4,Windows 10,1.89,244.99,1920,1080,1.44,Intel,0,0,Intel
+31,32,Asus,Notebook,14.0,2,Windows 10,1.65,199.0,1366,768,1.5,AMD,0,0,AMD
+32,33,HP,Notebook,17.3,4,Windows 10,2.71,439.0,1920,1080,2.5,AMD,0,1,AMD
+33,34,Dell,Ultrabook,13.3,16,Windows 10,1.2,1869.0,3200,1800,1.8,Intel,1,0,Intel
+34,35,Other,Ultrabook,13.3,8,Other,1.35,998.0,1440,900,1.6,Intel,0,0,Intel
+35,36,Lenovo,Notebook,14.0,4,Windows 10,1.44,249.0,1366,768,1.1,Intel,0,0,Intel
+36,37,Acer,Notebook,15.6,4,Other,2.1,367.0,1366,768,2.7,Intel,0,1,Intel
+37,38,Dell,Notebook,17.3,8,Windows 10,2.8,979.0,1920,1080,1.6,Intel,1,1,AMD
+38,39,HP,Notebook,15.6,4,Windows 10,1.86,488.69,1366,768,2.5,Intel,0,1,Intel
+39,40,HP,Notebook,15.6,8,Windows 10,2.1,879.0,1920,1080,1.6,Intel,1,0,Nvidia
+40,41,Asus,Notebook,15.6,4,Other,2.0,389.0,1920,1080,2.0,Intel,0,1,Intel
+41,42,Dell,Gaming,15.6,16,Windows 10,2.65,1499.0,1920,1080,2.8,Intel,1,1,Nvidia
+42,43,Asus,Notebook,15.6,8,Other,2.3,522.99,1366,768,2.5,Intel,0,1,Nvidia
+43,44,Acer,Notebook,15.6,4,Windows 10,2.2,682.0,1920,1080,1.6,Intel,1,0,Intel
+44,45,Dell,2 in 1 Convertible,17.3,12,Windows 10,2.77,999.0,1920,1080,1.6,Intel,0,1,Nvidia
+45,46,Other,Ultrabook,13.3,8,Other,1.37,1419.0,2560,1600,2.0,Intel,1,0,Intel
+46,47,Lenovo,Notebook,15.6,4,Other,2.2,369.0,1366,768,2.0,Intel,1,0,Intel
+47,48,Asus,Gaming,17.3,8,Windows 10,3.2,1299.0,1920,1080,3.0,AMD,1,1,AMD
+48,49,Dell,Notebook,15.6,4,Windows 10,2.3,639.0,1920,1080,2.5,Intel,1,0,AMD
+49,50,Asus,Notebook,17.3,4,Windows 10,2.8,466.0,1366,768,1.1,Intel,0,1,Nvidia
+50,51,Lenovo,2 in 1 Convertible,10.1,4,Other,0.69,319.0,1920,1200,1.44,Intel,0,0,Intel
+51,52,Acer,Notebook,15.6,8,Windows 10,2.2,841.0,1920,1080,1.8,Intel,1,0,Nvidia
+52,53,HP,Notebook,15.6,4,Windows 10,1.86,398.49,1920,1080,2.5,AMD,1,0,AMD
+53,54,HP,Notebook,13.3,8,Windows 10,1.49,1103.0,1920,1080,1.8,Intel,1,0,Intel
+54,55,Acer,Notebook,15.6,4,Windows 10,2.4,384.0,1366,768,2.4,Intel,0,1,Intel
+55,56,Dell,Notebook,15.6,8,Windows 10,2.13,767.8,1920,1080,1.8,Intel,1,0,AMD
+56,57,HP,Notebook,15.6,4,Windows 10,1.91,439.0,1920,1080,2.0,Intel,1,0,Intel
+57,58,Asus,Notebook,15.6,4,Windows 10,2.0,586.19,1366,768,2.5,Intel,1,0,Intel
+58,59,Other,Gaming,17.3,16,Windows 10,2.43,2449.0,1920,1080,2.8,Intel,1,1,Nvidia
+59,60,Asus,Notebook,15.6,4,Other,2.0,415.0,1920,1080,2.0,Intel,1,0,Intel
+60,61,Dell,Notebook,17.3,16,Windows 10,2.8,1299.0,1920,1080,1.8,Intel,1,1,AMD
+61,62,Dell,Ultrabook,14.0,8,Windows 10,1.7,879.0,1920,1080,1.6,Intel,1,0,Intel
+62,63,Lenovo,Notebook,14.0,8,Other,1.7,599.0,1920,1080,2.7,Intel,1,0,Intel
+63,64,Asus,Notebook,14.0,8,Windows 10,1.4,941.0,1920,1080,1.6,Intel,1,0,Intel
+64,66,HP,Notebook,15.6,8,Windows 10,1.86,690.0,1920,1080,2.5,Intel,1,0,Intel
+65,67,Asus,Ultrabook,15.6,16,Windows 10,1.8,1983.0,1920,1080,2.8,Intel,1,0,Nvidia
+66,68,HP,Notebook,15.6,4,Windows 10,1.86,438.69,1366,768,2.0,Intel,0,1,AMD
+67,69,HP,Notebook,14.0,4,Windows 10,1.44,229.0,1366,768,1.6,Intel,1,0,Intel
+68,70,Lenovo,Notebook,15.6,4,Windows 10,1.9,549.0,1920,1080,2.5,Intel,0,1,Intel
+69,71,Asus,Gaming,17.3,12,Other,3.0,949.0,1920,1080,2.8,Intel,0,1,Nvidia
+70,72,Other,Ultrabook,13.5,4,Other,1.252,1089.0,2256,1504,2.5,Intel,1,0,Intel
+71,73,Dell,Ultrabook,13.3,8,Windows 10,1.4,955.0,1920,1080,1.8,Intel,1,0,AMD
+72,74,Dell,Notebook,15.6,8,Windows 10,2.2,870.0,1920,1080,1.8,Intel,1,0,AMD
+73,75,Other,Gaming,17.3,8,Windows 10,2.7,1095.0,1920,1080,2.5,Intel,1,1,Nvidia
+74,76,Acer,Notebook,14.0,8,Windows 10,2.1,389.0,1366,768,2.0,Intel,0,1,Intel
+75,77,Asus,Gaming,15.6,8,Windows 10,2.2,949.0,1920,1080,2.8,Intel,0,1,Nvidia
+76,78,Lenovo,Notebook,15.6,8,Other,2.2,519.0,1920,1080,2.5,Intel,0,1,Intel
+77,79,Dell,Notebook,15.6,8,Windows 10,2.02,855.0,1920,1080,1.8,Intel,1,1,Intel
+78,80,Acer,Notebook,15.6,4,Windows 10,2.2,530.0,1920,1080,2.7,Intel,0,1,Nvidia
+79,81,HP,Notebook,17.3,8,Windows 10,2.5,977.0,1920,1080,1.6,Intel,1,1,Nvidia
+80,82,Dell,Ultrabook,15.6,8,Windows 10,1.88,1096.16,1920,1080,1.6,Intel,1,0,Intel
+81,83,Other,Ultrabook,12.0,8,Other,0.92,1510.0,2304,1440,1.3,Intel,1,0,Intel
+82,84,HP,Notebook,14.0,8,Windows 10,1.63,860.0,1920,1080,1.6,Intel,1,0,Intel
+83,85,Lenovo,Notebook,15.6,4,Windows 10,2.2,399.0,1920,1080,2.5,AMD,1,0,AMD
+84,86,Acer,Notebook,15.6,4,Windows 10,2.1,395.0,1366,768,3.0,AMD,0,1,AMD
+85,87,Dell,Gaming,15.6,16,Windows 10,2.65,1349.0,1920,1080,2.8,Intel,1,1,Nvidia
+86,88,HP,Ultrabook,15.6,8,Windows 10,1.83,699.0,1920,1080,1.8,Intel,1,0,Nvidia
+87,89,HP,Notebook,15.6,8,Windows 10,1.96,598.99,1920,1080,2.5,Intel,1,0,Intel
+88,90,Asus,Gaming,15.6,16,Windows 10,2.2,1449.0,1920,1080,2.8,Intel,1,1,Nvidia
+89,91,Dell,Ultrabook,13.3,8,Windows 10,1.21,1649.0,1920,1080,1.8,Intel,1,0,Intel
+90,92,Asus,Gaming,15.6,8,Windows 10,2.45,699.0,1920,1080,3.0,AMD,0,1,AMD
+91,93,Acer,Notebook,15.6,8,Windows 10,2.2,689.0,1920,1080,1.8,Intel,0,1,Nvidia
+92,94,HP,Notebook,13.3,16,Windows 10,1.49,1197.0,1920,1080,1.8,Intel,1,0,Intel
+93,95,Dell,Gaming,15.6,8,Windows 10,2.65,1195.0,1920,1080,2.5,Intel,1,0,Nvidia
+94,96,Asus,Ultrabook,14.0,8,Windows 10,1.25,1049.0,1920,1080,2.7,Intel,1,0,Intel
+95,97,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.5,847.0,1920,1080,1.6,Intel,1,0,Intel
+96,98,Dell,Notebook,15.6,8,Other,2.2,599.9,1920,1080,2.7,Intel,0,1,AMD
+97,99,Dell,Notebook,15.6,4,Other,2.2,485.0,1920,1080,2.0,Intel,1,0,AMD
+98,100,Asus,Notebook,15.6,6,Windows 10,2.0,577.0,1920,1080,2.4,Intel,1,0,Nvidia
+99,102,HP,Gaming,15.6,12,Windows 10,2.62,1249.0,1920,1080,2.8,Intel,1,1,Nvidia
+100,103,HP,Notebook,15.6,8,Windows 10,1.91,719.0,1920,1080,2.7,Intel,1,0,AMD
+101,104,HP,Notebook,15.6,4,Windows 10,2.1,349.0,1920,1080,1.5,AMD,0,1,AMD
+102,105,Dell,Notebook,15.6,8,Other,2.2,647.0,1920,1080,1.6,Intel,0,1,AMD
+103,106,HP,Ultrabook,13.3,8,Windows 10,1.38,1119.0,1920,1080,2.7,Intel,1,0,Nvidia
+104,107,Other,Ultrabook,13.5,8,Other,1.252,1340.0,2256,1504,2.5,Intel,1,0,Intel
+105,108,HP,Notebook,14.0,6,Windows 10,1.58,659.0,1920,1080,2.5,Intel,1,0,Nvidia
+106,109,Lenovo,Notebook,15.6,4,Windows 10,1.85,414.9,1920,1080,2.0,Intel,0,1,Intel
+107,110,Asus,Ultrabook,14.0,8,Windows 10,1.3,1193.0,1920,1080,2.7,Intel,1,0,Nvidia
+108,111,Other,Gaming,15.6,16,Windows 10,2.2,1299.0,1920,1080,2.8,Intel,1,1,Nvidia
+109,112,Lenovo,Notebook,14.0,8,Windows 10,1.58,1480.0,1920,1080,2.7,Intel,1,0,Intel
+110,113,Asus,Ultrabook,15.6,16,Windows 10,1.5,1262.0,1920,1080,1.8,Intel,1,1,Nvidia
+111,114,Dell,Ultrabook,13.3,8,Windows 10,1.23,1379.0,3200,1800,2.4,Intel,1,0,Intel
+112,115,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1399.0,1920,1080,2.5,Intel,1,0,Intel
+113,116,HP,Notebook,14.0,4,Windows 10,1.63,722.0,1366,768,1.6,Intel,0,1,Intel
+114,117,Dell,Ultrabook,13.3,8,Windows 10,1.21,1629.0,1920,1080,1.6,Intel,1,0,Intel
+115,118,HP,2 in 1 Convertible,13.3,8,Windows 10,1.26,1398.99,1920,1080,1.6,Intel,1,0,Intel
+116,119,HP,Notebook,14.0,8,Windows 10,1.63,1084.0,1920,1080,1.8,Intel,1,0,Intel
+117,120,Dell,Notebook,15.6,8,Windows 10,2.16,1130.33,1920,1080,1.8,Intel,1,1,Nvidia
+118,121,Asus,Notebook,17.3,4,Windows 10,2.0,564.0,1920,1080,2.0,Intel,0,1,Nvidia
+119,122,Asus,Notebook,15.6,8,Windows 10,1.7,1118.0,1920,1080,1.8,Intel,1,0,Nvidia
+120,123,Acer,Notebook,15.6,6,Windows 10,2.1,479.0,1920,1080,2.4,Intel,0,1,Intel
+121,124,Other,Gaming,15.6,16,Windows 10,1.8,2241.5,1920,1080,2.8,Intel,1,1,Nvidia
+122,125,Lenovo,Notebook,15.6,8,Other,2.2,629.0,1920,1080,2.5,Intel,1,0,Nvidia
+123,126,HP,Notebook,17.3,16,Windows 10,2.5,1271.0,1920,1080,1.8,Intel,1,0,Nvidia
+124,127,Acer,Notebook,15.6,4,Windows 10,2.1,451.0,1366,768,3.0,AMD,1,0,AMD
+125,128,HP,Notebook,15.6,4,Other,1.86,259.0,1366,768,1.6,Intel,0,1,Intel
+126,129,HP,Notebook,14.0,8,Windows 10,1.63,812.0,1920,1080,1.6,Intel,0,1,Intel
+127,130,Asus,Notebook,14.0,4,Other,1.65,277.99,1366,768,1.5,AMD,1,0,AMD
+128,131,Dell,Notebook,17.3,16,Windows 10,2.8,1396.0,1920,1080,1.8,Intel,1,1,AMD
+129,132,HP,Notebook,17.3,8,Windows 10,2.5,928.0,1920,1080,1.6,Intel,1,0,Intel
+130,133,Dell,Notebook,15.6,8,Windows 10,2.36,638.99,1366,768,2.5,Intel,0,1,AMD
+131,134,Dell,Notebook,15.6,4,Windows 10,2.2,449.0,1920,1080,2.0,Intel,0,1,AMD
+132,135,Acer,Ultrabook,14.0,8,Windows 10,1.6,884.0,1920,1080,1.8,Intel,1,0,Intel
+133,136,Acer,Notebook,15.6,4,Windows 10,2.2,572.0,1920,1080,2.7,Intel,1,0,Nvidia
+134,137,HP,Notebook,15.6,8,Windows 10,2.05,598.0,1366,768,2.7,Intel,0,1,Intel
+135,138,HP,Notebook,14.0,8,Windows 10,1.63,988.0,1920,1080,1.8,Intel,1,0,Intel
+136,139,Lenovo,Notebook,15.6,4,Other,1.9,252.36,1366,768,1.1,Intel,0,1,Intel
+137,140,Asus,Gaming,17.3,8,Windows 10,3.0,938.0,1920,1080,2.5,Intel,1,1,Nvidia
+138,141,Lenovo,Notebook,15.6,4,Other,2.2,499.0,1920,1080,2.5,Intel,0,1,Nvidia
+139,142,HP,Notebook,13.3,4,Windows 10,1.32,699.0,1920,1080,2.5,Intel,1,0,Intel
+140,143,Acer,Notebook,17.3,4,Windows 10,3.0,655.0,1920,1080,2.7,Intel,0,1,Nvidia
+141,144,Lenovo,Notebook,14.0,8,Windows 10,1.75,1116.02,1920,1080,1.6,Intel,1,0,AMD
+142,145,Lenovo,Gaming,15.6,8,Other,2.4,869.0,1920,1080,2.8,Intel,1,0,Nvidia
+143,146,Other,Notebook,15.6,4,Windows 10,2.1,602.0,1366,768,2.3,Intel,0,1,Intel
+144,147,HP,Notebook,15.6,4,Windows 10,1.86,369.0,1366,768,2.5,AMD,1,0,AMD
+145,148,Asus,Ultrabook,14.0,8,Windows 10,1.25,1099.0,1920,1080,1.8,Intel,1,0,Intel
+146,149,HP,Ultrabook,12.5,8,Windows 10,0.97,2014.0,3840,2160,1.2,Intel,1,0,Intel
+147,150,Asus,Notebook,15.6,4,Windows 10,2.0,344.0,1920,1080,1.1,Intel,0,1,Intel
+148,151,Other,Gaming,17.3,16,Windows 10,2.9,2029.0,1920,1080,2.8,Intel,1,1,Nvidia
+149,152,Acer,Notebook,15.6,4,Windows 10,2.1,447.0,1366,768,2.0,Intel,0,1,Intel
+150,153,Dell,Gaming,15.6,16,Windows 10,2.56,1249.26,1920,1080,2.8,Intel,1,0,Nvidia
+151,154,Dell,Gaming,15.6,8,Windows 10,2.62,899.0,1920,1080,2.8,Intel,0,0,Nvidia
+152,155,Lenovo,Notebook,15.6,4,Windows 10,1.9,498.0,1366,768,2.5,Intel,1,0,Intel
+153,156,Other,Gaming,17.3,16,Windows 10,2.8,1890.0,1920,1080,2.8,Intel,1,1,Nvidia
+154,157,HP,Ultrabook,14.0,4,Windows 10,1.48,1082.0,1920,1080,2.7,Intel,1,0,Intel
+155,158,HP,Notebook,15.6,6,Windows 10,1.91,619.0,1920,1080,1.6,Intel,1,0,AMD
+156,159,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.74,629.0,1920,1080,2.4,Intel,1,0,Intel
+157,160,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1315.0,1920,1080,1.6,Intel,1,0,Intel
+158,161,Dell,2 in 1 Convertible,15.6,8,Windows 10,1.56,1049.0,1920,1080,1.8,Intel,1,0,Intel
+159,163,Other,Notebook,15.6,4,Windows 10,2.1,447.0,1366,768,2.2,Intel,0,1,Intel
+160,164,Asus,Notebook,15.6,4,Windows 10,2.03,403.0,1366,768,3.0,AMD,0,1,AMD
+161,165,Acer,Notebook,17.3,4,Windows 10,3.0,805.0,1920,1080,1.6,Intel,1,0,Nvidia
+162,166,Dell,Notebook,15.6,8,Windows 10,2.13,728.0,1920,1080,1.6,Intel,1,0,AMD
+163,167,Lenovo,Gaming,15.6,16,Windows 10,2.5,1079.0,1920,1080,2.8,Intel,1,0,Nvidia
+164,168,Acer,Notebook,15.6,4,Windows 10,2.1,348.0,1366,768,1.1,Intel,0,1,Intel
+165,169,Other,Gaming,15.6,16,Windows 10,2.4,1799.0,1920,1080,2.8,Intel,1,1,Nvidia
+166,170,Acer,Notebook,15.6,4,Windows 10,2.1,363.51,1366,768,1.1,Intel,0,1,Intel
+167,171,Dell,Gaming,15.6,8,Windows 10,2.56,1060.49,1920,1080,2.8,Intel,1,1,Nvidia
+168,172,Acer,Notebook,17.3,8,Windows 10,3.0,854.0,1920,1080,1.6,Intel,1,0,Nvidia
+169,173,HP,Notebook,13.3,4,Windows 10,1.49,754.0,1920,1080,1.6,Intel,0,1,Intel
+170,174,Other,Ultrabook,13.0,8,Windows 10,1.05,1349.0,2160,1440,2.5,Intel,1,0,Intel
+171,175,HP,Notebook,17.3,6,Windows 10,2.71,699.0,1920,1080,2.5,Intel,0,1,AMD
+172,176,Lenovo,Notebook,15.6,4,Other,2.2,309.0,1366,768,2.9,AMD,0,1,AMD
+173,177,Other,Notebook,15.6,4,Windows 10,2.0,489.0,1366,768,2.4,Intel,0,1,Intel
+174,178,HP,Notebook,17.3,8,Windows 10,2.5,923.0,1920,1080,1.6,Intel,1,0,Nvidia
+175,179,Dell,Notebook,15.6,8,Windows 10,2.3,459.0,1366,768,2.4,Intel,0,1,Intel
+176,180,Acer,Notebook,15.6,4,Windows 10,2.1,449.0,1366,768,2.0,Intel,1,0,Intel
+177,181,Other,Gaming,18.4,32,Windows 10,4.4,2799.0,1920,1080,2.9,Intel,1,1,Nvidia
+178,182,Lenovo,Notebook,15.6,8,Windows 10,1.9,813.0,1920,1080,2.5,Intel,1,1,AMD
+179,183,HP,2 in 1 Convertible,13.3,8,Windows 10,1.29,1499.0,3840,2160,1.6,Intel,1,0,Intel
+180,184,Dell,Notebook,15.6,16,Other,2.02,1049.0,1920,1080,1.8,Intel,1,1,AMD
+181,185,Dell,Ultrabook,13.3,8,Windows 10,1.23,1399.0,1920,1080,1.6,Intel,1,0,Intel
+182,186,Lenovo,2 in 1 Convertible,13.9,16,Windows 10,1.4,1849.0,3840,2160,1.8,Intel,1,0,Intel
+183,187,Other,Notebook,15.6,8,Windows 10,2.0,793.0,1366,768,2.5,Intel,1,0,Intel
+184,188,Other,Notebook,15.6,8,Other,1.95,1199.0,1920,1080,1.6,Intel,1,0,Nvidia
+185,189,Dell,Notebook,17.3,16,Windows 10,2.77,1549.0,1920,1080,1.8,Intel,1,0,Nvidia
+186,190,Dell,Notebook,15.6,16,Windows 10,2.06,2397.0,3840,2160,2.8,Intel,1,0,Nvidia
+187,191,Lenovo,Gaming,15.6,8,Other,2.4,779.0,1920,1080,2.5,Intel,1,0,Nvidia
+188,192,Acer,Ultrabook,13.3,8,Windows 10,1.12,989.0,1920,1080,1.2,Intel,1,0,Intel
+189,193,Dell,Notebook,17.3,8,Windows 10,2.8,1085.0,1920,1080,1.8,Intel,1,1,AMD
+190,194,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.42,2824.0,2560,1440,2.7,Intel,1,0,Intel
+191,195,Other,Notebook,14.0,4,Windows 10,1.3,260.0,1920,1080,1.1,Intel,0,0,Intel
+192,196,Other,Ultrabook,13.3,8,Other,1.3,999.9,1920,1080,2.5,Intel,1,0,Nvidia
+193,197,Lenovo,Notebook,17.3,8,Other,2.8,698.0,1600,900,1.6,Intel,1,0,Nvidia
+194,198,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,839.0,1920,1080,1.8,Intel,0,1,Intel
+195,199,HP,Notebook,17.3,8,Windows 10,2.5,914.0,1920,1080,1.6,Intel,0,1,Nvidia
+196,200,Other,Gaming,17.3,32,Windows 10,3.49,6099.0,3840,2160,2.9,Intel,1,0,Nvidia
+197,201,HP,Notebook,13.3,8,Windows 10,1.49,959.0,1920,1080,1.6,Intel,1,0,Intel
+198,202,HP,Gaming,17.3,16,Windows 10,3.35,1379.0,1920,1080,2.8,Intel,1,1,Nvidia
+199,203,HP,Notebook,17.3,8,Windows 10,2.5,1045.0,1920,1080,1.8,Intel,1,0,Nvidia
+200,204,Dell,Gaming,15.6,16,Windows 10,2.65,1845.0,3840,2160,2.8,Intel,1,1,Nvidia
+201,205,Lenovo,Notebook,15.6,4,Windows 10,2.1,493.0,1366,768,2.3,Intel,1,0,Intel
+202,206,Acer,Notebook,15.6,8,Windows 10,2.23,742.0,1920,1080,2.7,Intel,0,1,Nvidia
+203,207,Lenovo,Gaming,15.6,16,Windows 10,3.2,1749.0,1920,1080,2.8,Intel,1,1,Nvidia
+204,208,Dell,Workstation,15.6,16,Windows 10,2.8,3055.0,3840,2160,3.0,Intel,1,1,Nvidia
+205,209,Lenovo,Gaming,15.6,16,Other,2.4,1398.0,1920,1080,2.8,Intel,1,0,Nvidia
+206,210,Dell,Notebook,15.6,6,Windows 10,2.3,439.0,1366,768,2.4,Intel,0,1,Intel
+207,211,Dell,Ultrabook,13.3,8,Windows 10,1.21,1949.0,3840,2160,1.8,Intel,1,0,Intel
+208,212,Dell,Ultrabook,13.3,8,Windows 10,1.2,1449.0,1920,1080,1.8,Intel,1,0,Intel
+209,213,Lenovo,Notebook,15.6,8,Windows 10,2.2,597.0,1366,768,2.5,Intel,1,0,Intel
+210,215,Acer,Notebook,15.6,8,Other,2.4,779.0,1920,1080,2.8,Intel,0,1,Nvidia
+211,216,Asus,Gaming,17.3,16,Windows 10,2.9,1407.0,1920,1080,2.8,Intel,1,1,Nvidia
+212,217,HP,Notebook,15.6,4,Other,2.1,349.0,1920,1080,2.0,Intel,0,1,Intel
+213,218,Lenovo,Notebook,15.6,8,Other,2.2,549.0,1920,1080,2.5,Intel,1,0,Intel
+214,219,Other,Ultrabook,13.0,8,Windows 10,1.05,1499.0,2160,1440,2.7,Intel,1,0,Intel
+215,220,Dell,Ultrabook,13.3,8,Windows 10,1.4,931.88,1920,1080,1.8,Intel,1,0,AMD
+216,221,Lenovo,Notebook,17.3,8,Other,2.8,589.0,1600,900,2.5,Intel,0,1,Nvidia
+217,222,HP,Notebook,14.0,8,Windows 10,1.63,1031.0,1920,1080,1.8,Intel,1,0,Nvidia
+218,223,Dell,Ultrabook,14.0,8,Windows 10,1.6,1149.0,1920,1080,1.6,Intel,1,0,Intel
+219,224,Dell,2 in 1 Convertible,13.3,16,Windows 10,1.62,1279.0,1920,1080,1.8,Intel,1,0,Intel
+220,225,Dell,Notebook,15.6,8,Other,2.2,677.35,1920,1080,1.6,Intel,1,0,AMD
+221,226,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.74,899.0,1920,1080,1.6,Intel,1,0,Intel
+222,227,Other,Ultrabook,13.3,8,Windows 10,1.2,1363.0,1920,1080,2.5,Intel,1,0,Intel
+223,228,HP,Notebook,15.6,8,Windows 10,2.1,794.0,1920,1080,1.6,Intel,0,1,Intel
+224,229,Dell,Gaming,17.3,16,Windows 10,4.42,2456.34,1920,1080,2.8,Intel,1,1,Nvidia
+225,230,Acer,Notebook,15.6,8,Windows 10,2.2,832.0,1920,1080,2.7,Intel,1,0,Nvidia
+226,231,Dell,Notebook,15.6,16,Windows 10,2.3,859.01,1920,1080,2.7,Intel,0,1,AMD
+227,232,Asus,Notebook,15.6,8,Windows 10,2.0,769.0,1920,1080,2.5,Intel,1,0,Nvidia
+228,233,Asus,Notebook,17.3,8,Windows 10,2.69,891.0,1920,1080,2.5,Intel,1,1,Nvidia
+229,234,HP,Notebook,15.6,8,Windows 10,1.9,1269.0,1920,1080,2.7,Intel,0,1,AMD
+230,235,Asus,Notebook,15.6,4,Windows 10,2.37,398.99,1366,768,2.4,Intel,0,1,Intel
+231,236,HP,Notebook,15.6,4,Windows 10,2.1,330.0,1366,768,1.5,AMD,0,1,AMD
+232,237,Lenovo,Gaming,15.6,16,Windows 10,3.2,1499.0,1920,1080,2.8,Intel,1,1,Nvidia
+233,238,Dell,Notebook,14.0,8,Windows 10,1.6,859.0,1920,1080,2.5,Intel,1,0,Intel
+234,239,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,689.0,1920,1080,2.3,Intel,1,0,Intel
+235,240,Dell,Notebook,15.6,16,Other,2.36,899.0,1920,1080,2.7,Intel,1,0,AMD
+236,241,Acer,Notebook,15.6,4,Other,2.1,390.0,1366,768,2.0,Intel,0,1,Intel
+237,242,Asus,Notebook,15.6,4,Windows 10,2.2,575.0,1920,1080,2.5,AMD,1,1,AMD
+238,243,Asus,Gaming,17.3,32,Windows 10,4.7,3890.0,1920,1080,2.9,Intel,1,1,Nvidia
+239,244,Acer,Gaming,15.6,8,Windows 10,2.5,846.0,1920,1080,2.5,Intel,1,0,Nvidia
+240,245,Lenovo,Notebook,15.6,8,Windows 10,2.2,589.0,1366,768,2.0,Intel,1,0,Intel
+241,246,Asus,Notebook,17.3,8,Windows 10,2.1,1145.0,1920,1080,1.8,Intel,1,1,Nvidia
+242,247,Asus,Notebook,17.3,8,Other,2.69,889.0,1920,1080,2.7,Intel,1,1,Nvidia
+243,248,Dell,Gaming,15.6,8,Windows 10,2.56,879.0,1920,1080,2.5,Intel,1,0,Nvidia
+244,249,Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.38,1079.0,1920,1080,2.7,Intel,1,0,Intel
+245,250,Dell,Notebook,15.6,8,Windows 10,2.2,985.0,1920,1080,1.8,Intel,1,1,AMD
+246,251,HP,Notebook,15.6,8,Windows 10,2.04,559.0,1366,768,2.5,Intel,0,1,Intel
+247,252,Asus,Gaming,17.3,16,Windows 10,3.6,2999.0,1920,1080,2.9,Intel,1,0,Nvidia
+248,253,HP,Notebook,13.3,4,Windows 10,1.49,675.0,1920,1080,1.6,Intel,0,1,Intel
+249,254,Other,Ultrabook,13.3,8,Other,1.37,2040.0,2560,1600,3.1,Intel,1,0,Intel
+250,255,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.08,819.0,1920,1080,1.8,Intel,0,1,Intel
+251,256,Asus,Gaming,17.3,16,Windows 10,4.3,1799.0,1920,1080,2.8,Intel,1,1,Nvidia
+252,257,Asus,Notebook,15.6,4,Windows 10,1.68,469.0,1366,768,3.0,AMD,0,1,AMD
+253,258,Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.37,1849.0,1920,1080,1.8,Intel,1,0,Intel
+254,259,Acer,Notebook,17.3,4,Windows 10,3.0,702.0,1920,1080,2.7,Intel,1,0,Nvidia
+255,260,Dell,Ultrabook,13.3,8,Windows 10,1.41,949.0,1920,1080,1.6,Intel,1,0,Intel
+256,261,HP,Notebook,15.6,8,Windows 10,1.91,445.9,1366,768,2.5,AMD,1,0,AMD
+257,262,HP,Notebook,17.3,16,Windows 10,2.9,1059.0,1920,1080,1.8,Intel,0,1,Nvidia
+258,263,Other,Gaming,17.3,16,Windows 10,4.14,2499.0,1920,1080,2.8,Intel,1,1,Nvidia
+259,264,Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.0,1699.0,1920,1080,2.8,Intel,1,0,Nvidia
+260,265,Dell,Notebook,17.3,8,Windows 10,2.8,1142.0,1920,1080,1.8,Intel,1,1,AMD
+261,266,Lenovo,Notebook,15.6,4,Other,2.2,444.0,1920,1080,2.0,Intel,1,0,Intel
+262,267,HP,Notebook,15.6,4,Windows 10,2.1,722.0,1920,1080,1.6,Intel,0,1,Intel
+263,268,Dell,Notebook,15.6,4,Windows 10,2.18,657.0,1920,1080,2.5,Intel,0,1,Intel
+264,269,Dell,Notebook,15.6,8,Windows 10,2.24,565.0,1920,1080,2.5,Intel,0,1,AMD
+265,270,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.67,799.0,1920,1080,1.6,Intel,1,0,Intel
+266,271,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1499.0,1920,1080,1.8,Intel,1,0,Intel
+267,272,Lenovo,Notebook,15.6,4,Other,2.2,467.0,1920,1080,2.5,Intel,0,1,Intel
+268,273,HP,Notebook,17.3,8,Windows 10,2.5,1018.0,1920,1080,1.8,Intel,0,1,Nvidia
+269,274,Lenovo,Notebook,15.6,8,Windows 10,2.05,880.0,1920,1080,1.8,Intel,1,0,Intel
+270,275,Other,Ultrabook,13.3,8,Other,1.37,1958.9,2560,1600,2.9,Intel,1,0,Intel
+271,276,Asus,Gaming,17.3,16,Windows 10,3.2,1549.0,1920,1080,3.0,AMD,1,1,AMD
+272,277,Dell,Notebook,15.6,8,Other,2.14,735.07,1920,1080,1.8,Intel,1,0,AMD
+273,278,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.36,2499.0,2560,1440,2.6,Intel,1,0,Intel
+274,279,Other,Notebook,15.6,8,Windows 10,2.2,812.0,1366,768,2.5,Intel,0,1,Nvidia
+275,280,Dell,Notebook,15.6,12,Windows 10,2.3,713.07,1366,768,2.7,Intel,0,1,Intel
+276,281,Dell,Notebook,17.3,8,Other,2.8,1099.0,1920,1080,1.8,Intel,1,1,AMD
+277,282,Acer,Notebook,15.6,8,Windows 10,2.2,745.0,1920,1080,1.8,Intel,0,1,Nvidia
+278,283,Lenovo,Notebook,17.3,4,Windows 10,2.8,489.0,1600,900,2.0,Intel,0,1,Intel
+279,284,Lenovo,Notebook,17.3,8,Other,2.8,849.0,1920,1080,1.8,Intel,0,1,Nvidia
+280,285,Lenovo,Notebook,17.3,6,Windows 10,2.8,859.0,1600,900,2.7,Intel,1,1,Nvidia
+281,286,Dell,Notebook,15.6,4,Other,2.25,428.0,1920,1080,2.0,Intel,0,1,AMD
+282,287,Lenovo,Gaming,15.6,8,Windows 10,2.5,829.0,1920,1080,2.5,Intel,1,0,Nvidia
+283,288,Lenovo,Notebook,15.6,6,Windows 10,2.2,579.0,1920,1080,2.5,Intel,1,0,Intel
+284,289,Acer,Notebook,15.6,8,Windows 10,3.0,951.0,1920,1080,1.8,Intel,1,0,Nvidia
+285,290,Acer,Notebook,15.6,12,Windows 10,2.15,659.0,1920,1080,2.7,Intel,0,1,Intel
+286,291,Lenovo,Notebook,15.6,8,Windows 10,1.95,1097.0,1920,1080,2.7,Intel,1,0,Intel
+287,292,Asus,Ultrabook,15.6,8,Windows 10,1.7,977.0,1920,1080,2.5,Intel,1,0,Nvidia
+288,293,Lenovo,Gaming,15.6,16,Windows 10,2.5,1179.0,1920,1080,2.8,Intel,1,1,Nvidia
+289,294,Lenovo,Notebook,15.6,8,Other,2.2,659.01,1920,1080,2.7,Intel,0,1,Nvidia
+290,295,Acer,Notebook,15.6,2,Other,2.19,199.0,1366,768,1.5,Intel,1,0,Intel
+291,296,Asus,Gaming,17.3,8,Windows 10,3.0,1187.0,1920,1080,2.8,Intel,0,1,Nvidia
+292,297,HP,Notebook,17.3,8,Windows 10,2.54,489.0,1600,900,2.0,Intel,0,1,Intel
+293,298,Dell,Notebook,15.6,8,Windows 10,2.0,1829.0,1920,1080,2.8,Intel,1,0,Nvidia
+294,299,Lenovo,Notebook,15.6,8,Windows 10,2.05,739.0,1920,1080,1.6,Intel,1,0,Intel
+295,300,Lenovo,Gaming,15.6,8,Windows 10,3.2,1299.0,1920,1080,2.8,Intel,0,1,Nvidia
+296,301,Acer,Notebook,15.6,8,Other,2.5,979.0,1920,1080,2.8,Intel,1,0,Nvidia
+297,302,Dell,Workstation,17.3,16,Windows 10,3.42,2884.86,1920,1080,2.9,Intel,1,0,Nvidia
+298,303,Lenovo,Notebook,15.6,6,Windows 10,2.4,499.0,1920,1080,2.4,AMD,0,1,AMD
+299,304,Asus,Ultrabook,15.6,16,Windows 10,1.63,1468.0,1920,1080,2.7,Intel,1,0,Nvidia
+300,305,Asus,Notebook,14.0,4,Windows 10,1.3,509.0,1366,768,2.4,Intel,1,0,Intel
+301,306,Asus,Gaming,17.3,16,Windows 10,2.9,2122.0,1920,1080,2.8,Intel,1,1,Nvidia
+302,307,Lenovo,Notebook,17.3,6,Windows 10,2.8,649.0,1600,900,2.5,Intel,0,1,Nvidia
+303,308,Lenovo,Notebook,15.6,8,Other,2.2,549.0,1366,768,2.5,Intel,0,1,Nvidia
+304,309,Asus,Gaming,15.6,8,Windows 10,2.5,1265.0,1920,1080,2.8,Intel,1,1,Nvidia
+305,310,Lenovo,Notebook,15.6,4,Other,2.2,359.99,1366,768,1.1,Intel,0,1,Intel
+306,311,HP,2 in 1 Convertible,13.3,16,Windows 10,1.28,1975.0,1920,1080,2.8,Intel,1,0,Intel
+307,312,Other,Notebook,15.6,8,Windows 10,2.2,1043.0,1920,1080,2.5,Intel,1,0,Nvidia
+308,313,Lenovo,Notebook,15.6,8,Windows 10,2.3,819.0,1920,1080,2.5,Intel,1,1,Nvidia
+309,314,HP,Notebook,15.6,4,Windows 10,1.86,469.0,1920,1080,2.0,Intel,0,1,Intel
+310,315,Lenovo,Notebook,13.3,8,Windows 10,1.1,999.0,1920,1080,2.5,Intel,1,0,Intel
+311,316,Dell,Ultrabook,13.3,16,Windows 10,1.21,2499.0,3840,2160,1.8,Intel,1,0,Intel
+312,317,Other,Gaming,15.6,16,Windows 10,2.8,2099.0,1920,1080,2.8,Intel,1,1,Nvidia
+313,318,Acer,Notebook,15.6,8,Windows 10,2.23,469.0,1920,1080,2.2,AMD,1,0,AMD
+314,319,Asus,2 in 1 Convertible,11.6,2,Windows 10,1.1,275.0,1366,768,1.1,Intel,0,0,Intel
+315,320,Dell,Notebook,15.6,8,Windows 10,2.33,844.0,1920,1080,1.6,Intel,1,1,AMD
+316,321,HP,2 in 1 Convertible,13.3,16,Windows 10,1.29,2449.0,3840,2160,1.8,Intel,1,0,Intel
+317,322,Lenovo,Notebook,13.3,4,Other,1.45,459.9,1366,768,1.6,Intel,0,0,Intel
+318,323,HP,Notebook,14.0,8,Windows 10,1.95,980.0,1920,1080,2.5,Intel,1,0,Intel
+319,324,Acer,Notebook,11.6,4,Windows 10,1.4,485.0,1366,768,1.6,Intel,0,0,Intel
+320,325,HP,Notebook,14.0,8,Windows 10,1.48,1292.0,1920,1080,2.7,Intel,1,0,Intel
+321,326,Lenovo,Notebook,17.3,4,Windows 10,2.79,589.0,1600,900,2.5,Intel,0,1,Nvidia
+322,327,Asus,Notebook,14.0,8,Windows 10,2.0,1094.0,1920,1080,2.7,Intel,1,0,Intel
+323,329,HP,Notebook,15.6,8,Windows 10,2.1,902.0,1366,768,1.8,Intel,0,1,Intel
+324,330,Acer,Notebook,15.6,8,Windows 10,2.2,659.0,1366,768,2.7,AMD,1,0,AMD
+325,331,Lenovo,Notebook,14.0,4,Windows 10,1.44,292.0,1366,768,1.1,Intel,0,0,Intel
+326,332,Acer,Notebook,15.6,6,Windows 10,2.23,549.0,1366,768,2.5,Intel,0,1,Intel
+327,333,Asus,Ultrabook,15.6,8,Windows 10,1.7,1049.9,1920,1080,2.7,Intel,1,0,Nvidia
+328,334,HP,Ultrabook,12.5,8,Windows 10,1.26,1335.0,1920,1080,2.7,Intel,1,0,Intel
+329,335,Dell,Notebook,15.6,32,Windows 10,2.06,2639.0,3840,2160,2.8,Intel,1,0,Nvidia
+330,336,Other,Gaming,17.3,8,Windows 10,2.7,1199.0,1920,1080,2.8,Intel,1,1,Nvidia
+331,337,Other,Notebook,15.6,8,Windows 10,2.0,943.0,1920,1080,2.5,Intel,1,0,Intel
+332,338,Asus,Notebook,14.0,8,Windows 10,2.0,1334.0,1920,1080,2.7,Intel,1,1,Intel
+333,339,Lenovo,Notebook,15.6,4,Windows 10,1.85,449.0,1920,1080,2.0,Intel,0,1,Intel
+334,340,Asus,Gaming,15.6,8,Windows 10,2.5,999.0,1920,1080,2.8,Intel,1,0,Nvidia
+335,341,HP,Notebook,14.0,8,Windows 10,1.48,1268.0,1920,1080,2.6,Intel,1,0,Intel
+336,342,Dell,Ultrabook,15.6,8,Windows 10,1.9,1049.0,1920,1080,1.6,Intel,1,1,Nvidia
+337,343,HP,Notebook,15.6,8,Windows 10,1.84,1144.0,1920,1080,2.5,Intel,1,0,Intel
+338,344,Asus,Notebook,15.6,4,Other,2.0,274.99,1366,768,1.1,Intel,0,1,Intel
+339,345,Dell,Notebook,15.6,8,Windows 10,2.0,1142.75,1920,1080,1.6,Intel,1,0,Nvidia
+340,346,Dell,Notebook,15.6,4,Other,2.2,274.9,1366,768,1.6,Intel,0,1,Intel
+341,347,Lenovo,Notebook,15.6,12,Windows 10,2.2,899.0,1920,1080,3.6,AMD,0,1,AMD
+342,348,HP,Notebook,15.6,8,Windows 10,2.1,716.0,1920,1080,2.4,Intel,0,1,Nvidia
+343,349,Lenovo,2 in 1 Convertible,13.9,16,Windows 10,1.4,2099.0,3840,2160,1.8,Intel,1,0,Intel
+344,350,Dell,Ultrabook,13.3,8,Windows 10,1.2,1579.0,1920,1080,1.8,Intel,1,0,Intel
+345,351,Lenovo,Gaming,15.6,16,Windows 10,2.4,1129.0,1920,1080,2.8,Intel,1,1,Nvidia
+346,352,HP,Notebook,14.0,2,Windows 10,1.44,279.0,1366,768,1.6,Intel,0,0,Intel
+347,353,Dell,Ultrabook,15.6,16,Windows 10,1.88,1607.96,1920,1080,1.9,Intel,1,0,Intel
+348,354,Asus,2 in 1 Convertible,11.6,4,Windows 10,1.5,375.0,1366,768,1.1,Intel,0,0,Intel
+349,355,Dell,Ultrabook,15.6,8,Windows 10,1.9,663.0,1920,1080,1.6,Intel,0,1,AMD
+350,356,Dell,Notebook,15.6,16,Windows 10,2.06,2027.42,3840,2160,2.8,Intel,1,0,Nvidia
+351,357,HP,Notebook,15.6,8,Windows 10,1.84,1304.0,1920,1080,2.7,Intel,1,0,Intel
+352,358,Other,Gaming,17.3,8,Windows 10,2.7,1409.0,1920,1080,2.8,Intel,1,1,Nvidia
+353,359,HP,Workstation,15.6,8,Windows 10,2.6,1738.27,1920,1080,2.8,Intel,1,0,Nvidia
+354,360,Other,Notebook,15.6,16,Windows 10,2.4,1403.0,1920,1080,2.5,Intel,1,0,Nvidia
+355,361,Dell,Notebook,15.6,8,Windows 10,2.02,970.9,1920,1080,1.8,Intel,1,1,AMD
+356,362,Lenovo,Notebook,15.6,4,Other,2.2,321.99,1366,768,1.1,Intel,0,1,Intel
+357,363,Dell,Gaming,15.6,8,Windows 10,2.65,999.0,1920,1080,2.5,Intel,0,1,Nvidia
+358,364,Dell,Notebook,15.6,8,Windows 10,2.36,557.37,1366,768,2.5,Intel,0,1,Intel
+359,365,Dell,Notebook,14.0,8,Windows 10,1.36,1427.0,1920,1080,2.6,Intel,1,0,Intel
+360,366,HP,Notebook,15.6,4,Windows 10,1.86,439.0,1366,768,2.0,Intel,0,1,Intel
+361,367,Asus,Notebook,14.0,8,Windows 10,2.0,945.0,1920,1080,2.5,Intel,1,0,Intel
+362,368,Lenovo,Notebook,17.3,6,Windows 10,2.8,719.0,1600,900,2.5,Intel,1,1,Nvidia
+363,369,HP,Notebook,15.6,8,Windows 10,1.86,639.0,1920,1080,2.5,Intel,0,1,Intel
+364,370,Lenovo,Notebook,15.6,8,Other,2.2,499.0,1366,768,2.0,Intel,1,0,Nvidia
+365,371,HP,Notebook,15.6,8,Windows 10,2.04,389.0,1366,768,1.6,Intel,0,1,Intel
+366,372,Dell,Notebook,17.3,8,Windows 10,2.8,1085.0,1920,1080,1.6,Intel,1,1,AMD
+367,373,Lenovo,Gaming,15.6,8,Other,2.4,809.0,1920,1080,2.5,Intel,1,1,Nvidia
+368,374,Dell,Notebook,15.6,8,Windows 10,2.33,899.0,1920,1080,2.7,Intel,1,0,AMD
+369,375,HP,Ultrabook,14.0,8,Windows 10,1.36,1750.0,1920,1080,2.7,Intel,1,0,Intel
+370,376,Asus,2 in 1 Convertible,15.6,12,Windows 10,2.26,1099.0,1920,1080,2.7,Intel,1,1,Nvidia
+371,377,Acer,Notebook,15.6,4,Windows 10,2.1,426.0,1366,768,3.0,AMD,1,0,AMD
+372,378,Asus,Gaming,17.3,16,Windows 10,3.25,2199.0,1920,1080,3.0,AMD,1,1,AMD
+373,379,Lenovo,Notebook,17.3,4,Windows 10,2.6,489.0,1600,900,2.2,AMD,1,0,AMD
+374,380,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,869.01,1920,1080,1.8,Intel,1,0,Intel
+375,381,HP,Notebook,15.6,4,Windows 10,1.91,488.99,1920,1080,3.0,AMD,1,0,AMD
+376,382,Lenovo,Netbook,11.6,4,Windows 10,1.59,553.0,1366,768,1.1,Intel,1,0,Intel
+377,383,Dell,Notebook,15.6,4,Windows 10,1.8,309.0,1366,768,1.6,Intel,0,1,Intel
+378,384,Asus,Notebook,14.0,4,Windows 10,1.5,286.0,1366,768,1.1,Intel,0,0,Intel
+379,385,Acer,Notebook,15.6,8,Other,2.4,846.0,1920,1080,2.8,Intel,0,1,Nvidia
+380,386,HP,Gaming,17.3,8,Windows 10,3.35,1191.0,1920,1080,2.8,Intel,1,1,Nvidia
+381,387,Lenovo,Notebook,15.6,4,Other,1.85,403.5,1920,1080,2.0,Intel,1,0,Intel
+382,388,Asus,Gaming,15.6,8,Windows 10,2.3,1655.0,1920,1080,2.8,Intel,1,1,Nvidia
+383,389,Lenovo,Notebook,14.0,8,Windows 10,1.5,1099.0,1920,1080,2.5,Intel,1,0,Nvidia
+384,390,Asus,Ultrabook,13.3,16,Windows 10,1.1,1748.9,1920,1080,2.7,Intel,1,0,Intel
+385,391,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,2282.0,2560,1440,2.7,Intel,1,0,Intel
+386,392,Lenovo,Notebook,13.3,4,Windows 10,1.5,549.0,1920,1080,2.4,Intel,1,0,Intel
+387,393,Dell,Workstation,15.6,8,Windows 10,2.23,1369.0,1920,1080,2.6,Intel,0,1,AMD
+388,394,Dell,Workstation,15.6,8,Windows 10,2.0,2135.0,1920,1080,2.7,Intel,1,0,Nvidia
+389,395,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.42,2509.0,2560,1440,2.7,Intel,1,0,Intel
+390,396,Asus,Gaming,17.3,8,Windows 10,3.0,1039.0,1920,1080,2.8,Intel,0,1,Nvidia
+391,397,Asus,Gaming,17.3,16,Windows 10,3.0,1591.0,1920,1080,2.8,Intel,1,1,Nvidia
+392,399,Acer,Notebook,15.6,12,Windows 10,2.2,693.99,1366,768,1.6,Intel,0,1,Nvidia
+393,400,Other,Gaming,17.3,8,Windows 10,2.7,1349.0,1920,1080,2.8,Intel,1,0,Nvidia
+394,401,Dell,Notebook,15.6,8,Other,2.33,778.87,1920,1080,2.7,Intel,1,0,AMD
+395,402,HP,Ultrabook,15.6,4,Windows 10,1.91,499.0,1920,1080,3.0,AMD,1,0,AMD
+396,403,Lenovo,Notebook,15.6,8,Windows 10,2.1,1229.56,1920,1080,1.8,Intel,1,0,AMD
+397,404,Lenovo,Notebook,14.0,8,Windows 10,1.9,938.0,1920,1080,2.5,Intel,1,0,Intel
+398,405,Dell,Workstation,15.6,8,Windows 10,1.78,2712.0,3840,2160,2.8,Intel,1,0,Nvidia
+399,406,Lenovo,Ultrabook,14.0,16,Windows 10,1.13,2625.0,2560,1440,2.7,Intel,1,0,Intel
+400,407,Lenovo,Notebook,15.6,4,Windows 10,2.2,306.0,1366,768,1.1,Intel,0,1,Intel
+401,408,Asus,Gaming,17.3,16,Windows 10,2.9,1529.0,1920,1080,2.8,Intel,1,1,Nvidia
+402,409,Lenovo,Notebook,15.6,8,Windows 10,2.1,1144.5,1920,1080,1.6,Intel,1,1,AMD
+403,410,Acer,Notebook,15.6,8,Other,2.5,879.0,1920,1080,2.8,Intel,1,0,Nvidia
+404,411,Other,Gaming,17.3,16,Windows 10,2.8,2249.0,1920,1080,2.8,Intel,1,1,Nvidia
+405,412,Asus,Ultrabook,14.0,8,Windows 10,1.1,1873.0,1920,1080,2.7,Intel,1,0,Intel
+406,413,Other,Ultrabook,13.3,16,Windows 10,1.2,1747.0,1920,1080,2.5,Intel,1,0,Intel
+407,414,Dell,Ultrabook,14.0,8,Windows 10,1.36,1680.0,1920,1080,2.8,Intel,1,0,Intel
+408,415,Lenovo,Notebook,15.6,4,Windows 10,2.2,409.0,1920,1080,2.0,Intel,0,1,Intel
+409,416,Lenovo,Notebook,11.6,2,Windows 10,1.15,304.45,1366,768,1.1,Intel,0,0,Intel
+410,417,Lenovo,Workstation,15.6,8,Windows 10,2.67,1925.0,1920,1080,2.8,Intel,1,0,Nvidia
+411,418,Lenovo,Ultrabook,14.0,8,Windows 10,1.7,1943.0,2560,1440,2.8,Intel,1,0,Nvidia
+412,419,HP,Notebook,15.6,4,Windows 10,2.1,469.0,1920,1080,2.0,Intel,0,1,AMD
+413,420,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,789.01,1920,1080,2.5,Intel,1,0,Intel
+414,421,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.27,928.0,1920,1080,2.5,Intel,1,0,Intel
+415,422,Dell,Notebook,15.6,4,Other,2.3,598.9,1920,1080,2.5,Intel,1,0,AMD
+416,423,Dell,Notebook,13.3,4,Windows 10,1.65,689.0,1366,768,2.0,Intel,1,0,Intel
+417,424,HP,Ultrabook,14.0,8,Windows 10,1.43,1500.0,1920,1080,2.5,Intel,1,0,Intel
+418,425,Dell,Notebook,15.6,8,Windows 10,2.14,539.95,1366,768,2.5,Intel,0,1,Intel
+419,426,Lenovo,Ultrabook,14.0,8,Windows 10,1.75,1215.38,1920,1080,1.8,Intel,1,0,AMD
+420,427,Lenovo,2 in 1 Convertible,15.6,16,Windows 10,2.0,1899.0,3840,2160,2.8,Intel,1,0,Nvidia
+421,428,Other,Notebook,12.3,6,Windows 10,1.4,449.0,2736,1824,1.1,Intel,0,0,Intel
+422,429,HP,Notebook,15.6,8,Windows 10,2.31,1427.0,1920,1080,2.9,Intel,1,0,Intel
+423,430,Asus,Notebook,15.6,8,Other,2.3,597.0,1920,1080,2.4,Intel,0,1,Nvidia
+424,431,Dell,Gaming,17.3,16,Windows 10,4.42,2799.0,2560,1440,2.9,Intel,1,1,Nvidia
+425,432,Dell,Gaming,15.6,8,Windows 10,2.62,1159.0,1920,1080,2.8,Intel,1,1,Nvidia
+426,433,Dell,Notebook,15.6,8,Windows 10,2.02,1142.4,1920,1080,1.8,Intel,1,1,AMD
+427,434,Dell,Ultrabook,14.0,8,Other,1.6,1099.0,1920,1080,2.8,Intel,1,0,Intel
+428,435,HP,Gaming,17.3,12,Windows 10,3.35,1999.0,1920,1080,2.8,Intel,1,1,Nvidia
+429,436,Other,2 in 1 Convertible,11.6,4,Windows 10,1.16,299.0,1920,1080,1.1,Intel,1,0,Intel
+430,437,Other,Netbook,11.6,4,Other,1.15,269.0,1366,768,1.6,Intel,0,0,Intel
+431,438,Lenovo,Notebook,13.3,8,Windows 10,1.4,1010.0,1920,1080,2.7,Intel,1,0,Intel
+432,439,Lenovo,Notebook,14.0,4,Windows 10,1.7,599.0,1920,1080,2.7,Intel,1,0,Intel
+433,440,Lenovo,Workstation,15.6,16,Windows 10,2.3,2445.0,3840,2160,2.8,Intel,1,0,Nvidia
+434,441,Lenovo,Notebook,15.6,16,Windows 10,2.5,2449.0,1920,1080,2.9,Intel,1,0,Nvidia
+435,442,Asus,Gaming,17.3,8,Windows 10,3.2,1695.0,1920,1080,3.2,AMD,1,1,AMD
+436,443,HP,Notebook,15.6,4,Windows 10,2.1,347.0,1366,768,1.6,Intel,0,1,Intel
+437,444,Other,Ultrabook,12.3,16,Other,1.1,2199.0,2400,1600,1.3,Intel,1,0,Intel
+438,445,Lenovo,Ultrabook,14.0,24,Windows 10,1.32,2382.0,2560,1440,2.7,Intel,1,0,Intel
+439,446,Asus,Notebook,15.6,4,Other,2.0,559.0,1920,1080,2.5,Intel,1,0,Intel
+440,447,Lenovo,Notebook,17.3,8,Windows 10,2.8,519.0,1600,900,2.5,AMD,0,1,AMD
+441,448,Dell,Notebook,15.6,4,Windows 10,2.2,749.0,1920,1080,1.6,Intel,1,0,AMD
+442,449,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1429.0,1920,1080,2.5,Intel,1,0,Intel
+443,450,Lenovo,Notebook,15.6,4,Windows 10,2.2,349.0,1920,1080,1.1,Intel,1,0,Intel
+444,451,HP,Gaming,15.6,8,Windows 10,2.2,1099.0,1920,1080,2.8,Intel,1,1,Nvidia
+445,452,Dell,Notebook,14.0,8,Windows 10,1.64,1179.0,1920,1080,2.8,Intel,1,0,Nvidia
+446,453,Acer,Notebook,15.6,4,Other,2.4,441.8,1366,768,2.5,Intel,0,1,Intel
+447,454,Dell,Workstation,15.6,8,Windows 10,2.23,1993.0,1920,1080,3.0,Intel,0,1,Nvidia
+448,455,Other,Gaming,15.6,8,Windows 10,2.2,1027.74,1920,1080,2.5,Intel,1,0,Nvidia
+449,456,Other,Ultrabook,13.5,16,Other,1.25,2589.0,2256,1504,2.5,Intel,1,0,Intel
+450,457,HP,Notebook,15.6,8,Windows 10,1.91,589.0,1366,768,2.5,Intel,1,0,Intel
+451,458,Dell,Workstation,15.6,16,Windows 10,2.17,1975.0,1920,1080,2.7,Intel,1,0,Nvidia
+452,459,HP,Workstation,15.6,8,Windows 10,2.31,1534.0,1920,1080,2.9,Intel,1,0,Intel
+453,460,Lenovo,Notebook,14.0,8,Windows 10,1.65,1345.0,1920,1080,2.5,Intel,1,0,Intel
+454,461,Dell,Notebook,15.6,8,Windows 10,2.36,979.0,1920,1080,1.8,Intel,1,1,AMD
+455,462,Dell,2 in 1 Convertible,11.6,4,Windows 10,1.47,479.0,1366,768,1.6,Intel,0,1,Intel
+456,463,Dell,Notebook,17.3,8,Windows 10,4.42,2046.0,1920,1080,2.7,Intel,0,1,Nvidia
+457,464,Other,Ultrabook,13.5,4,Other,1.252,989.0,2256,1504,2.2,Intel,1,0,Intel
+458,465,Other,Ultrabook,13.5,8,Other,1.25,1799.0,2256,1504,2.5,Intel,1,0,Intel
+459,466,HP,Notebook,17.3,8,Windows 10,2.5,639.9,1600,900,2.0,Intel,1,0,Intel
+460,467,Acer,Notebook,15.6,4,Windows 10,2.23,544.0,1920,1080,2.0,Intel,0,1,Nvidia
+461,468,Acer,Netbook,11.6,4,Windows 10,1.4,435.0,1366,768,1.6,Intel,1,0,Intel
+462,469,Asus,Notebook,15.6,8,Windows 10,2.37,749.0,1920,1080,2.5,Intel,0,1,Intel
+463,470,Lenovo,Notebook,14.0,8,Other,1.5,799.0,1920,1080,2.7,Intel,1,0,AMD
+464,471,Lenovo,Notebook,15.6,8,Windows 10,2.67,2090.0,1920,1080,2.9,Intel,1,0,Nvidia
+465,472,Asus,Notebook,15.6,4,Windows 10,2.0,304.0,1366,768,1.1,Intel,0,1,Intel
+466,473,Acer,Notebook,15.6,4,Windows 10,2.2,469.0,1366,768,2.0,Intel,0,1,Nvidia
+467,474,Dell,Notebook,15.6,8,Windows 10,2.02,759.0,1920,1080,1.6,Intel,0,1,AMD
+468,475,HP,Gaming,17.3,12,Windows 10,3.78,1699.0,1920,1080,2.8,Intel,0,1,Nvidia
+469,476,Lenovo,Ultrabook,14.0,12,Windows 10,1.4,1858.0,2560,1440,2.6,Intel,1,0,Intel
+470,477,HP,2 in 1 Convertible,13.3,8,Windows 10,1.29,1999.0,3840,2160,1.8,Intel,1,0,Intel
+471,478,HP,Notebook,15.6,8,Windows 10,1.9,1154.0,1920,1080,2.5,Intel,0,1,AMD
+472,479,Other,Ultrabook,12.3,8,Other,1.1,1275.0,2400,1600,1.2,Intel,1,0,Intel
+473,480,Dell,Ultrabook,13.3,8,Windows 10,1.42,1841.85,1920,1080,1.6,Intel,1,0,Intel
+474,481,Asus,Notebook,15.6,12,Windows 10,2.06,1299.0,3840,2160,2.6,Intel,1,1,Intel
+475,482,Dell,Notebook,14.0,8,Windows 10,1.79,740.0,1366,768,2.3,Intel,1,0,Intel
+476,483,Dell,Workstation,15.6,8,Windows 10,1.78,2408.0,1920,1080,2.8,Intel,1,0,Nvidia
+477,484,Lenovo,Notebook,14.0,8,Windows 10,1.7,1364.0,1920,1080,2.5,Intel,1,0,Intel
+478,485,Dell,Notebook,15.6,8,Windows 10,2.2,675.0,1920,1080,1.6,Intel,0,1,AMD
+479,486,Other,Notebook,13.3,8,Windows 10,1.05,1672.0,1920,1080,2.5,Intel,1,0,Intel
+480,487,Dell,Notebook,15.6,8,Windows 10,2.16,1262.0,1920,1080,1.8,Intel,1,0,Nvidia
+481,488,Dell,Notebook,15.6,4,Windows 10,2.18,586.6,1366,768,2.4,Intel,0,1,Intel
+482,489,HP,Notebook,13.3,4,Windows 10,1.49,726.0,1920,1080,1.6,Intel,1,0,Intel
+483,490,Other,Notebook,15.6,4,Windows 10,1.89,248.9,1920,1080,1.44,Intel,0,0,Intel
+484,491,Lenovo,Notebook,15.6,4,Windows 10,2.3,565.0,1366,768,2.0,Intel,1,0,Intel
+485,492,Lenovo,Notebook,14.0,8,Windows 10,1.75,1049.0,1920,1080,1.6,Intel,1,0,Intel
+486,493,Dell,Workstation,15.6,16,Windows 10,2.17,2338.0,1920,1080,2.7,Intel,1,0,Nvidia
+487,494,Dell,Notebook,15.6,16,Windows 10,2.06,1899.0,1920,1080,2.8,Intel,1,0,Nvidia
+488,495,Lenovo,Ultrabook,12.5,16,Windows 10,1.36,1798.0,1920,1080,2.7,Intel,1,0,Intel
+489,496,Asus,Ultrabook,12.5,16,Windows 10,0.91,1950.0,1920,1080,2.7,Intel,1,0,Intel
+490,497,Lenovo,Notebook,15.6,8,Windows 10,2.3,1011.99,1920,1080,2.5,Intel,1,0,Nvidia
+491,498,Other,Ultrabook,13.3,32,Windows 10,1.05,2799.0,1920,1080,2.7,Intel,1,0,Intel
+492,499,Asus,Gaming,15.6,8,Windows 10,1.99,1350.0,1920,1080,2.8,Intel,1,1,Nvidia
+493,500,Acer,Notebook,15.6,8,Windows 10,2.2,579.0,1366,768,2.5,AMD,0,1,AMD
+494,501,Asus,Gaming,17.3,24,Windows 10,4.33,1269.0,1920,1080,2.6,Intel,1,1,Nvidia
+495,502,Lenovo,Ultrabook,12.5,8,Windows 10,1.3,1099.0,1366,768,2.3,Intel,1,0,Intel
+496,503,Lenovo,Notebook,15.6,8,Windows 10,2.17,898.9,1920,1080,1.8,Intel,1,0,Intel
+497,504,HP,Notebook,14.0,8,Windows 10,1.48,1749.0,1920,1080,2.8,Intel,1,0,Intel
+498,505,Lenovo,Notebook,13.3,8,Windows 10,1.4,949.0,1920,1080,2.4,Intel,1,0,Intel
+499,506,Lenovo,Notebook,15.6,8,Windows 10,2.3,911.0,1920,1080,2.5,Intel,1,0,Intel
+500,507,Asus,Netbook,11.6,4,Other,1.2,340.0,1366,768,1.1,Intel,0,0,Intel
+501,508,HP,Notebook,15.6,8,Windows 10,1.91,618.99,1366,768,2.5,Intel,1,0,AMD
+502,509,Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.4,1599.0,1920,1080,1.6,Intel,1,0,Intel
+503,510,Lenovo,Notebook,14.0,4,Windows 10,2.1,299.0,1366,768,1.1,Intel,0,1,Intel
+504,511,Lenovo,Netbook,11.6,4,Other,1.25,265.0,1366,768,1.6,Intel,1,0,Intel
+505,512,Lenovo,Notebook,13.3,8,Windows 10,1.44,949.0,1920,1080,2.5,Intel,1,0,Intel
+506,513,Asus,Notebook,15.6,8,Windows 10,2.0,1224.0,1920,1080,2.7,Intel,1,1,Intel
+507,514,Acer,Notebook,15.6,4,Windows 10,2.2,613.0,1920,1080,1.6,Intel,0,1,Nvidia
+508,515,HP,Ultrabook,13.3,8,Windows 10,1.34,1323.0,1920,1080,2.7,Intel,1,0,Intel
+509,516,Lenovo,Gaming,15.6,8,Other,2.4,1149.0,1920,1080,2.8,Intel,1,1,Nvidia
+510,517,Dell,Ultrabook,13.3,8,Windows 10,1.29,899.0,1920,1080,2.5,Intel,1,0,Intel
+511,518,Acer,Notebook,15.6,4,Windows 10,2.2,639.0,1920,1080,2.7,Intel,0,1,Nvidia
+512,519,Dell,Notebook,15.6,8,Windows 10,2.18,836.0,1920,1080,2.5,Intel,0,1,Intel
+513,520,Dell,Notebook,15.6,16,Windows 10,2.2,1219.24,1920,1080,1.8,Intel,1,1,AMD
+514,521,Other,Notebook,15.6,16,Other,1.95,1399.95,1920,1080,1.8,Intel,1,0,Nvidia
+515,522,Asus,Netbook,11.6,2,Windows 10,1.1,245.0,1366,768,1.1,Intel,0,0,Intel
+516,523,HP,Notebook,15.6,4,Windows 10,2.04,521.47,1366,768,1.6,Intel,0,1,Intel
+517,524,Asus,Gaming,15.6,24,Windows 10,2.24,2968.0,1920,1080,2.8,Intel,1,0,Nvidia
+518,525,HP,Notebook,15.6,8,Windows 10,2.04,889.0,1920,1080,2.5,Intel,1,0,Nvidia
+519,526,Asus,Gaming,17.3,16,Windows 10,3.0,1504.0,1920,1080,2.8,Intel,1,1,Nvidia
+520,527,Lenovo,Gaming,15.6,8,Windows 10,3.2,1399.0,1920,1080,2.8,Intel,1,1,Nvidia
+521,528,HP,Ultrabook,13.3,8,Windows 10,1.32,1399.0,1920,1080,2.7,Intel,1,0,Intel
+522,529,Dell,Notebook,14.0,8,Windows 10,1.64,1279.73,1920,1080,2.6,Intel,1,0,Intel
+523,530,HP,Notebook,15.6,4,Windows 10,1.63,689.0,1366,768,2.0,Intel,1,0,Intel
+524,531,Dell,Notebook,17.3,8,Other,2.8,889.0,1920,1080,1.6,Intel,1,1,AMD
+525,532,Lenovo,Notebook,14.0,8,Other,2.02,1340.0,1920,1080,2.3,Intel,1,0,Intel
+526,533,Lenovo,Notebook,15.6,4,Windows 10,2.2,799.0,1920,1080,2.7,Intel,0,1,Nvidia
+527,534,Lenovo,Notebook,15.6,8,Other,2.2,459.0,1366,768,2.0,Intel,0,1,Nvidia
+528,535,Dell,Notebook,15.6,4,Windows 10,2.3,585.0,1920,1080,2.5,Intel,0,1,AMD
+529,536,Dell,Notebook,15.6,8,Windows 10,1.9,1377.0,1920,1080,2.8,Intel,1,0,Intel
+530,537,Dell,Gaming,17.3,16,Windows 10,4.42,3012.77,1920,1080,2.8,Intel,1,1,Nvidia
+531,538,Other,Notebook,15.6,8,Windows 10,2.0,860.0,1920,1080,2.5,Intel,0,1,Intel
+532,539,Asus,Notebook,15.6,8,Windows 10,2.0,1299.0,3840,2160,2.7,Intel,1,1,Nvidia
+533,540,Other,Notebook,13.3,4,Windows 10,1.2,369.0,1920,1080,1.1,Intel,1,0,Intel
+534,541,Asus,Gaming,15.6,8,Windows 10,2.3,1649.0,1920,1080,2.5,Intel,1,1,Nvidia
+535,542,Dell,Notebook,15.6,8,Windows 10,1.93,1369.0,1920,1080,2.8,Intel,1,0,Nvidia
+536,543,Dell,Notebook,15.6,8,Windows 10,2.2,797.41,1920,1080,1.6,Intel,1,0,AMD
+537,544,HP,Notebook,15.6,4,Windows 10,1.86,398.99,1920,1080,1.6,Intel,1,0,Intel
+538,545,HP,Gaming,17.3,12,Windows 10,2.62,1799.0,1920,1080,2.8,Intel,0,1,Nvidia
+539,546,Lenovo,Notebook,14.0,8,Windows 10,1.87,859.0,1920,1080,2.7,Intel,1,0,Nvidia
+540,547,Dell,Ultrabook,13.3,8,Windows 10,1.2,1399.0,3200,1800,1.8,Intel,1,0,Intel
+541,548,Dell,Notebook,14.0,4,Windows 10,1.6,735.87,1920,1080,2.0,Intel,1,0,Intel
+542,549,HP,Ultrabook,13.3,8,Windows 10,1.34,1145.0,3200,1800,2.7,Intel,1,0,Intel
+543,550,Acer,Gaming,15.6,8,Other,2.4,798.0,1920,1080,2.5,Intel,0,1,Nvidia
+544,551,Asus,Notebook,15.6,4,Windows 10,2.0,349.0,1366,768,1.8,AMD,0,1,AMD
+545,552,HP,Notebook,15.6,4,Windows 10,2.1,705.5,1920,1080,2.4,Intel,1,0,Intel
+546,553,Lenovo,Notebook,14.0,4,Windows 10,1.87,785.0,1920,1080,2.5,Intel,0,1,Intel
+547,554,Lenovo,Notebook,15.6,4,Other,2.15,462.35,1920,1080,2.3,Intel,0,1,Intel
+548,555,HP,Notebook,15.6,4,Windows 10,1.86,397.0,1920,1080,2.0,Intel,0,1,Intel
+549,556,Lenovo,Notebook,15.6,8,Windows 10,1.99,1729.0,1920,1080,2.7,Intel,1,0,Intel
+550,557,Lenovo,Notebook,15.6,4,Windows 10,2.2,499.0,1920,1080,2.0,Intel,1,0,Intel
+551,558,Dell,Notebook,15.6,8,Windows 10,1.9,1116.99,1920,1080,2.5,Intel,1,0,Intel
+552,559,Dell,Gaming,17.3,16,Windows 10,4.42,2699.0,1920,1080,2.8,Intel,1,1,Nvidia
+553,560,HP,Notebook,17.3,8,Windows 10,2.65,544.15,1600,900,2.0,Intel,0,1,Intel
+554,561,HP,Notebook,17.3,8,Windows 10,2.63,1280.0,1920,1080,2.7,Intel,0,1,Nvidia
+555,562,Asus,Notebook,15.6,4,Other,2.0,224.0,1366,768,1.1,Intel,0,1,Intel
+556,563,Other,Notebook,13.3,4,Windows 10,1.35,255.0,1920,1080,1.44,Intel,0,0,Intel
+557,564,Lenovo,Notebook,17.3,6,Windows 10,2.8,949.0,1600,900,2.7,Intel,1,1,Nvidia
+558,565,HP,Notebook,15.6,6,Windows 10,1.91,568.9,1920,1080,2.5,AMD,1,0,AMD
+559,566,Dell,Notebook,15.6,4,Windows 10,2.18,617.9,1366,768,2.0,Intel,0,1,AMD
+560,567,Acer,2 in 1 Convertible,11.6,4,Windows 10,1.25,349.0,1920,1080,2.0,Intel,0,0,Intel
+561,568,Lenovo,Notebook,15.6,4,Windows 10,2.05,630.0,1920,1080,2.7,Intel,1,0,Intel
+562,569,HP,Ultrabook,13.3,16,Windows 10,1.16,1965.0,3200,1800,1.2,Intel,1,0,Intel
+563,570,Lenovo,Notebook,17.3,8,Windows 10,3.4,2999.0,1920,1080,2.8,Intel,1,0,Nvidia
+564,571,Asus,Notebook,15.6,8,Windows 10,2.5,839.0,1920,1080,2.5,Intel,1,1,Nvidia
+565,572,Dell,Ultrabook,13.3,8,Windows 10,1.21,1599.0,3840,2160,1.6,Intel,1,0,Intel
+566,573,Dell,Notebook,15.6,4,Windows 10,1.93,959.0,1366,768,2.6,Intel,0,1,Intel
+567,574,Other,Notebook,15.6,8,Windows 10,2.2,739.0,1366,768,2.5,Intel,0,1,Intel
+568,575,Lenovo,Notebook,15.6,4,Windows 10,2.2,344.0,1920,1080,1.1,Intel,0,1,Intel
+569,576,Lenovo,Notebook,14.0,4,Windows 10,2.02,990.0,1366,768,2.5,Intel,0,1,Intel
+570,577,HP,Workstation,17.3,8,Windows 10,3.14,1860.99,1600,900,2.8,Intel,0,1,Nvidia
+571,578,HP,Notebook,14.0,8,Windows 10,1.94,389.0,1366,768,1.6,Intel,0,1,Intel
+572,579,HP,Notebook,15.6,6,Windows 10,1.95,649.0,1920,1080,3.0,AMD,1,0,AMD
+573,580,Lenovo,Notebook,15.6,8,Windows 10,2.3,830.0,1920,1080,2.5,Intel,1,0,Intel
+574,581,Lenovo,Notebook,15.6,4,Windows 10,2.05,685.0,1920,1080,1.6,Intel,0,1,Intel
+575,582,Other,Notebook,14.0,4,Windows 10,1.4,249.0,1920,1080,1.44,Intel,1,0,Intel
+576,583,Other,Ultrabook,14.0,16,Windows 10,1.24,1865.0,1920,1080,2.7,Intel,1,0,Intel
+577,584,Lenovo,Gaming,17.3,32,Windows 10,4.6,2663.0,1920,1080,2.7,Intel,1,1,Nvidia
+578,585,Other,Gaming,17.3,16,Windows 10,4.14,2729.0,1920,1080,2.9,Intel,1,1,Nvidia
+579,586,Dell,Notebook,15.6,8,Other,2.2,749.01,1920,1080,2.7,Intel,1,0,AMD
+580,587,Other,Notebook,14.0,4,Windows 10,1.45,389.0,1920,1080,1.1,Intel,1,0,Intel
+581,588,Dell,Notebook,15.6,8,Windows 10,1.9,1008.52,1366,768,2.6,Intel,0,1,Intel
+582,589,HP,Notebook,13.3,4,Windows 10,1.49,719.0,1920,1080,2.4,Intel,1,0,Intel
+583,590,Dell,Notebook,15.6,16,Windows 10,1.93,1537.39,1920,1080,2.8,Intel,1,0,Nvidia
+584,591,Dell,Netbook,11.6,4,Other,1.26,295.0,1366,768,1.6,Intel,0,0,Intel
+585,592,Other,Gaming,17.3,16,Windows 10,4.5,2349.0,1920,1080,2.7,Intel,1,1,Nvidia
+586,593,HP,Gaming,17.3,16,Windows 10,3.78,1498.0,1920,1080,2.8,Intel,1,1,Nvidia
+587,594,Lenovo,Ultrabook,14.0,12,Windows 10,1.4,1673.0,1920,1080,2.6,Intel,1,0,Intel
+588,595,Lenovo,Notebook,15.6,12,Windows 10,2.2,609.0,1366,768,1.8,Intel,0,1,Intel
+589,596,Asus,Gaming,17.3,8,Windows 10,2.73,1770.0,1920,1080,2.5,Intel,1,1,Nvidia
+590,597,Asus,2 in 1 Convertible,15.6,8,Windows 10,2.2,739.0,1366,768,2.5,Intel,0,1,Intel
+591,598,Lenovo,Notebook,15.6,12,Windows 10,2.2,949.0,1920,1080,3.6,AMD,1,0,AMD
+592,599,Dell,2 in 1 Convertible,11.6,4,Windows 10,1.39,603.0,1366,768,1.0,Intel,1,0,Intel
+593,600,Other,Notebook,15.6,16,Windows 10,2.5,1699.0,1920,1080,2.8,Intel,1,1,Nvidia
+594,601,Lenovo,Notebook,17.3,4,Other,2.8,529.0,1920,1080,2.0,Intel,0,1,Intel
+595,602,Lenovo,Notebook,15.6,8,Windows 10,2.29,459.0,1366,768,2.3,Intel,0,1,Intel
+596,603,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,2025.0,1920,1080,2.7,Intel,1,0,Intel
+597,604,Lenovo,Notebook,14.0,8,Windows 10,1.7,1474.0,1920,1080,2.5,Intel,1,0,Intel
+598,605,Dell,2 in 1 Convertible,12.5,8,Windows 10,1.34,1670.0,1920,1080,2.5,Intel,1,0,Intel
+599,606,Dell,Workstation,15.6,8,Windows 10,2.06,1763.0,1920,1080,2.8,Intel,1,0,Nvidia
+600,607,HP,Notebook,15.6,8,Windows 10,1.84,1219.0,1920,1080,2.7,Intel,1,0,Intel
+601,608,HP,Notebook,15.6,4,Windows 10,2.1,668.48,1366,768,2.4,Intel,0,1,Intel
+602,609,Acer,Notebook,14.0,4,Windows 10,1.6,329.0,1920,1080,1.1,Intel,0,0,Intel
+603,610,Other,Gaming,17.3,16,Windows 10,4.14,2199.0,1920,1080,2.7,Intel,1,1,Nvidia
+604,611,Dell,Notebook,15.6,4,Other,2.18,465.0,1366,768,2.0,Intel,0,1,AMD
+605,612,Other,Gaming,15.6,16,Windows 10,1.8,2299.0,3840,2160,2.8,Intel,1,1,Nvidia
+606,613,Other,Notebook,15.6,8,Windows 10,2.2,1399.0,1920,1080,2.5,Intel,1,0,Intel
+607,614,Lenovo,Notebook,15.6,6,Windows 10,2.4,564.0,1920,1080,2.5,Intel,0,1,Intel
+608,615,Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.0,1299.0,1920,1080,2.8,Intel,1,0,Intel
+609,616,Acer,Notebook,14.0,4,Windows 10,1.6,349.0,1366,768,1.6,Intel,0,0,Intel
+610,617,Lenovo,Notebook,15.6,32,Windows 10,2.5,4899.0,3840,2160,3.1,Intel,1,0,Nvidia
+611,618,Dell,Gaming,15.6,16,Windows 10,2.59,879.01,1920,1080,2.6,Intel,0,1,Nvidia
+612,619,Dell,Notebook,15.6,4,Other,2.18,443.9,1366,768,2.0,Intel,0,1,Intel
+613,620,Dell,Notebook,15.6,4,Other,2.25,359.0,1366,768,2.0,Intel,0,1,Intel
+614,621,Dell,Notebook,15.6,4,Other,1.93,869.0,1366,768,2.6,Intel,0,1,Intel
+615,622,Asus,Gaming,17.3,8,Windows 10,3.0,1168.0,1920,1080,2.8,Intel,1,1,Nvidia
+616,623,Dell,Notebook,15.6,4,Other,2.18,569.0,1920,1080,2.5,Intel,1,0,AMD
+617,624,HP,Ultrabook,15.6,8,Windows 10,1.84,1389.0,1920,1080,2.7,Intel,1,0,Intel
+618,625,Other,Gaming,15.6,16,Windows 10,2.94,2267.86,1920,1080,2.8,Intel,1,1,Nvidia
+619,626,Acer,2 in 1 Convertible,11.6,4,Other,1.25,379.0,1366,768,1.6,Intel,0,0,Intel
+620,627,HP,Notebook,14.0,8,Windows 10,2.31,1124.0,1366,768,2.6,Intel,1,0,Intel
+621,628,Lenovo,Notebook,14.0,8,Other,1.65,1465.0,1920,1080,2.3,Intel,1,0,Intel
+622,629,Dell,Notebook,15.6,4,Windows 10,2.2,776.0,1920,1080,1.6,Intel,0,1,AMD
+623,630,Other,Notebook,15.6,8,Windows 10,2.2,799.0,1366,768,2.5,Intel,1,0,Intel
+624,631,HP,Notebook,15.6,4,Other,1.88,932.0,1366,768,2.3,Intel,0,1,Intel
+625,632,Lenovo,Notebook,15.6,8,Windows 10,2.2,899.0,1920,1080,2.7,Intel,0,1,Nvidia
+626,633,Other,Notebook,14.0,2,Windows 10,1.4,239.0,1920,1080,1.44,Intel,0,0,Intel
+627,634,Lenovo,Notebook,15.6,4,Other,2.2,468.0,1920,1080,2.5,Intel,1,0,Intel
+628,635,Asus,2 in 1 Convertible,13.3,6,Windows 10,1.5,639.01,1920,1080,2.5,Intel,0,1,Intel
+629,636,Dell,Notebook,15.6,8,Windows 10,2.0,1820.0,1920,1080,2.8,Intel,1,0,Nvidia
+630,637,Asus,Ultrabook,14.0,16,Windows 10,1.1,1900.0,1920,1080,2.7,Intel,1,0,Intel
+631,639,Dell,Gaming,15.6,16,Windows 10,2.62,1479.0,1920,1080,2.8,Intel,1,1,Nvidia
+632,640,Lenovo,Notebook,15.6,4,Windows 10,1.8,829.0,1920,1080,1.6,Intel,1,0,Intel
+633,641,Lenovo,Notebook,15.6,4,Windows 10,2.2,579.0,1920,1080,2.0,Intel,0,1,Nvidia
+634,642,Asus,Notebook,15.6,8,Windows 10,2.0,399.0,1366,768,1.1,Intel,0,1,Intel
+635,643,Asus,Notebook,15.6,8,Windows 10,1.99,906.62,1920,1080,2.5,Intel,0,1,Nvidia
+636,644,Dell,Ultrabook,13.3,8,Windows 10,1.23,1869.0,3200,1800,1.6,Intel,1,0,Intel
+637,645,Lenovo,Notebook,14.0,2,Windows 10,1.42,249.0,1366,768,1.6,Intel,0,0,Intel
+638,646,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1757.42,1920,1080,2.7,Intel,1,0,Intel
+639,647,Dell,Notebook,15.6,16,Windows 10,2.06,2399.0,3840,2160,2.8,Intel,1,0,Nvidia
+640,648,Lenovo,Gaming,15.6,8,Windows 10,2.5,1109.0,1920,1080,2.8,Intel,1,1,Nvidia
+641,649,HP,Notebook,17.0,8,Windows 10,2.6,520.9,1600,900,3.0,AMD,0,1,AMD
+642,650,Lenovo,Ultrabook,14.0,16,Windows 10,1.14,2450.0,1920,1080,2.7,Intel,1,0,Intel
+643,651,Asus,Gaming,15.6,8,Other,2.5,1169.0,1920,1080,2.8,Intel,0,1,Nvidia
+644,652,Acer,Notebook,15.6,4,Windows 10,2.4,450.0,1366,768,2.0,Intel,0,1,Intel
+645,653,Lenovo,Notebook,14.0,4,Windows 10,1.43,274.0,1366,768,1.6,Intel,0,0,Intel
+646,654,Acer,Ultrabook,14.0,8,Windows 10,1.8,919.0,1920,1080,2.5,Intel,1,0,Intel
+647,655,Other,Gaming,14.0,16,Windows 10,1.95,2599.0,1920,1080,2.8,Intel,1,0,Nvidia
+648,656,Other,Notebook,13.3,8,Windows 10,1.2,1213.0,1920,1080,2.3,Intel,1,0,Intel
+649,657,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1584.0,1920,1080,2.7,Intel,1,0,Intel
+650,658,Asus,Gaming,17.3,32,Windows 10,3.8,2799.0,1920,1080,2.7,Intel,1,0,Nvidia
+651,659,Acer,Gaming,15.6,8,Other,2.4,709.0,1920,1080,2.5,Intel,0,1,Nvidia
+652,660,Dell,Ultrabook,13.3,8,Windows 10,1.2,1449.9,1920,1080,1.6,Intel,1,0,Intel
+653,661,Other,Gaming,15.6,8,Windows 10,2.2,1191.8,1920,1080,2.8,Intel,1,1,Nvidia
+654,662,HP,Notebook,15.6,4,Other,1.86,364.9,1366,768,2.0,Intel,0,1,Intel
+655,663,Other,Notebook,15.6,8,Windows 10,2.0,1064.0,1920,1080,2.5,Intel,0,1,Intel
+656,664,Dell,Notebook,15.6,8,Windows 10,2.2,919.0,1920,1080,1.8,Intel,1,0,AMD
+657,665,Dell,Notebook,15.6,16,Windows 10,2.2,1135.0,1920,1080,1.8,Intel,1,1,AMD
+658,666,Lenovo,Gaming,15.6,8,Windows 10,3.31,1196.0,1920,1080,2.6,Intel,1,1,Nvidia
+659,667,Dell,Gaming,17.3,32,Windows 10,4.42,3147.37,3840,2160,2.8,Intel,1,1,Nvidia
+660,668,Dell,Notebook,14.0,8,Windows 10,1.56,1229.0,1920,1080,2.4,Intel,1,0,Intel
+661,669,Lenovo,Notebook,15.6,4,Windows 10,2.2,419.0,1366,768,1.1,Intel,0,1,Intel
+662,670,Lenovo,Notebook,15.6,4,Windows 10,2.2,535.0,1920,1080,2.3,Intel,0,1,Intel
+663,671,HP,Notebook,15.6,6,Windows 10,2.04,539.0,1920,1080,2.0,Intel,0,1,AMD
+664,672,Other,Gaming,17.3,8,Windows 10,2.7,1486.77,1920,1080,2.8,Intel,1,1,Nvidia
+665,673,Other,Notebook,15.6,4,Windows 10,2.1,498.0,1366,768,2.1,Intel,1,0,Intel
+666,674,Dell,Notebook,15.6,8,Windows 10,2.06,955.0,1920,1080,2.5,Intel,0,1,Intel
+667,675,HP,Notebook,15.6,8,Windows 10,2.1,745.0,1920,1080,2.7,Intel,0,1,AMD
+668,676,Other,Notebook,15.6,8,Windows 10,2.0,1258.0,1920,1080,2.5,Intel,1,0,Intel
+669,677,Acer,Notebook,15.6,4,Other,2.1,412.0,1366,768,2.0,Intel,1,0,Intel
+670,678,Other,Ultrabook,13.5,8,Other,1.252,1867.85,2256,1504,2.8,Intel,1,0,Intel
+671,679,Lenovo,Notebook,15.6,8,Windows 10,1.9,817.95,1920,1080,2.5,Intel,1,1,AMD
+672,680,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.3,1034.0,1920,1080,2.5,Intel,1,0,Intel
+673,681,Lenovo,Notebook,15.6,4,Windows 10,2.2,349.0,1366,768,2.2,AMD,1,0,AMD
+674,682,HP,2 in 1 Convertible,14.0,4,Windows 10,1.63,699.0,1920,1080,2.4,Intel,1,0,Nvidia
+675,683,Other,Gaming,15.6,16,Windows 10,2.4,1294.0,1920,1080,2.8,Intel,1,1,Nvidia
+676,684,Asus,Ultrabook,14.0,8,Windows 10,1.1,1135.0,1920,1080,2.5,Intel,1,0,Intel
+677,685,HP,2 in 1 Convertible,11.6,8,Other,1.4,495.0,1366,768,1.1,Intel,0,0,Intel
+678,686,Other,Ultrabook,15.6,8,Windows 10,1.09,2299.0,1920,1080,1.8,Intel,1,0,Intel
+679,687,Acer,Gaming,15.6,16,Windows 10,2.5,1299.0,1920,1080,2.5,Intel,1,0,Nvidia
+680,688,Other,Gaming,15.6,8,Windows 10,2.2,997.9,1920,1080,2.5,Intel,1,0,Nvidia
+681,689,Asus,Notebook,15.6,4,Windows 10,1.86,419.0,1366,768,1.1,Intel,1,0,Intel
+682,690,Dell,Gaming,15.6,16,Windows 10,3.21,2051.0,1920,1080,2.5,Intel,1,1,Nvidia
+683,691,HP,Notebook,17.3,4,Windows 10,2.5,699.0,1920,1080,2.0,Intel,1,0,AMD
+684,692,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.19,1499.0,1920,1080,1.8,Intel,1,0,Intel
+685,693,Dell,Gaming,15.6,16,Windows 10,3.49,2813.75,1920,1080,2.9,Intel,1,1,Nvidia
+686,694,HP,Notebook,15.6,4,Windows 10,1.86,612.61,1366,768,2.5,Intel,0,1,AMD
+687,695,Dell,Notebook,15.6,4,Windows 10,2.2,545.67,1366,768,2.0,Intel,0,1,AMD
+688,696,HP,Notebook,17.3,6,Windows 10,2.65,569.0,1920,1080,2.4,AMD,0,1,AMD
+689,697,Lenovo,Notebook,15.6,4,Windows 10,2.1,318.0,1366,768,1.6,Intel,0,1,Intel
+690,698,Acer,Notebook,14.0,4,Other,1.45,375.0,1366,768,1.6,Intel,0,0,Intel
+691,699,Lenovo,Notebook,14.0,4,Windows 10,1.7,699.0,1920,1080,2.5,Intel,1,0,Intel
+692,700,HP,Workstation,17.3,8,Windows 10,3.14,1907.99,1920,1080,2.8,Intel,0,1,Nvidia
+693,701,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.42,2590.0,2560,1440,2.7,Intel,1,0,Intel
+694,702,Other,Notebook,13.3,8,Windows 10,1.5,973.0,1920,1080,2.5,Intel,1,0,Intel
+695,703,Acer,Netbook,11.6,4,Windows 10,1.4,269.0,1366,768,1.6,Intel,0,0,Intel
+696,704,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.38,1749.0,1920,1080,2.7,Intel,1,0,Intel
+697,705,Asus,2 in 1 Convertible,12.5,4,Other,1.2,669.0,1920,1080,0.9,Intel,0,0,Intel
+698,706,Other,Ultrabook,13.3,16,Windows 10,1.36,1877.0,1920,1080,2.5,Intel,1,0,Intel
+699,707,HP,Notebook,15.6,4,Windows 10,2.1,689.0,1920,1080,2.7,Intel,0,1,AMD
+700,708,Dell,Gaming,15.6,8,Windows 10,2.56,819.0,1920,1080,2.5,Intel,0,1,Nvidia
+701,709,Lenovo,Notebook,15.6,4,Windows 10,2.2,399.0,1920,1080,2.9,AMD,1,0,AMD
+702,710,Lenovo,Notebook,15.6,8,Windows 10,2.2,429.0,1366,768,3.6,AMD,0,1,AMD
+703,711,Lenovo,Notebook,15.6,4,Windows 10,2.1,621.45,1920,1080,2.5,Intel,0,1,Intel
+704,712,Lenovo,Notebook,15.6,4,Other,1.9,450.0,1366,768,2.0,Intel,0,1,Intel
+705,713,Dell,Notebook,15.6,8,Windows 10,2.18,795.0,1920,1080,2.5,Intel,1,0,Intel
+706,714,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,999.0,1920,1080,1.6,Intel,1,0,Intel
+707,715,Lenovo,Workstation,15.6,16,Other,2.18,1855.0,1920,1080,2.5,Intel,1,0,Nvidia
+708,716,Lenovo,Notebook,14.0,8,Windows 10,1.8,1191.0,1920,1080,2.3,Intel,1,0,Intel
+709,717,HP,Notebook,17.3,6,Windows 10,2.71,655.01,1920,1080,2.5,AMD,0,1,AMD
+710,718,Lenovo,Gaming,15.6,8,Windows 10,2.5,1249.0,1920,1080,2.8,Intel,1,1,Nvidia
+711,719,Dell,Notebook,14.0,8,Other,1.64,1089.0,1920,1080,2.8,Intel,1,0,Nvidia
+712,720,Dell,Notebook,15.6,8,Other,1.98,726.0,1920,1080,2.5,Intel,0,1,Intel
+713,721,Asus,Notebook,14.0,4,Windows 10,1.5,298.0,1920,1080,1.1,Intel,0,0,Intel
+714,722,Dell,Notebook,15.6,16,Windows 10,1.93,1426.66,1920,1080,2.6,Intel,1,0,Intel
+715,723,Lenovo,Notebook,14.0,8,Windows 10,1.87,857.07,1920,1080,2.5,Intel,1,0,Nvidia
+716,724,Dell,Notebook,15.6,8,Windows 10,1.9,1179.0,1920,1080,2.6,Intel,1,0,Intel
+717,725,Lenovo,Notebook,15.6,4,Windows 10,2.19,298.0,1366,768,2.0,AMD,0,1,AMD
+718,726,Other,Notebook,14.0,4,Windows 10,1.4,265.0,1920,1200,1.92,Intel,0,1,Intel
+719,727,HP,Notebook,17.3,8,Windows 10,2.63,1200.0,1920,1080,2.7,Intel,1,0,Nvidia
+720,728,Lenovo,Ultrabook,14.0,8,Windows 10,1.17,1686.64,2560,1440,2.5,Intel,1,0,Intel
+721,729,HP,2 in 1 Convertible,13.3,8,Windows 10,1.58,836.6,1366,768,2.5,Intel,1,0,Intel
+722,730,Lenovo,Ultrabook,14.0,8,Windows 10,1.32,1499.0,1920,1080,2.5,Intel,1,0,Intel
+723,731,Dell,Gaming,17.3,32,Windows 10,4.36,3659.4,3840,2160,2.8,Intel,1,1,Nvidia
+724,732,Other,Gaming,17.3,8,Windows 10,2.7,1348.48,1920,1080,2.8,Intel,1,1,Nvidia
+725,733,Lenovo,Notebook,15.6,4,Other,1.9,489.9,1366,768,2.5,Intel,0,1,Intel
+726,734,Dell,Notebook,15.6,8,Windows 10,2.2,719.0,1920,1080,1.6,Intel,1,1,AMD
+727,735,Dell,2 in 1 Convertible,13.3,4,Windows 10,1.71,649.0,1920,1080,2.4,Intel,0,1,Intel
+728,736,Dell,Notebook,15.6,8,Other,2.32,589.52,1366,768,2.5,Intel,0,1,AMD
+729,737,HP,Notebook,15.6,4,Windows 10,2.1,489.0,1920,1080,3.0,AMD,0,1,AMD
+730,738,Acer,Gaming,17.3,16,Windows 10,4.2,1935.0,1920,1080,2.6,Intel,1,1,Nvidia
+731,739,Dell,Notebook,15.6,12,Windows 10,2.25,649.0,1366,768,2.5,Intel,0,1,Intel
+732,740,HP,Notebook,15.6,6,Windows 10,2.1,650.0,1920,1080,3.0,AMD,1,1,AMD
+733,741,Acer,Notebook,15.6,4,Windows 10,2.4,559.0,1366,768,2.5,Intel,0,1,Intel
+734,742,Lenovo,Notebook,13.3,8,Windows 10,1.44,960.0,1920,1080,2.5,Intel,1,0,Intel
+735,743,Lenovo,Notebook,15.6,4,Windows 10,1.85,779.0,1920,1080,2.7,Intel,0,1,Intel
+736,744,HP,Workstation,15.6,16,Windows 10,2.6,2419.0,1920,1080,2.8,Intel,1,0,Nvidia
+737,745,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.55,659.0,1920,1080,1.6,Intel,0,1,Intel
+738,746,Other,Gaming,15.6,16,Windows 10,1.8,2094.48,1920,1080,2.8,Intel,1,1,Nvidia
+739,747,Acer,Notebook,15.6,4,Windows 10,2.4,410.8,1366,768,2.0,Intel,0,1,Intel
+740,748,Dell,Notebook,15.6,8,Windows 10,2.0,1207.0,1920,1080,2.7,Intel,1,1,Nvidia
+741,749,Dell,Notebook,15.6,8,Windows 10,2.0,665.0,1366,768,2.0,Intel,1,0,Intel
+742,750,Other,Notebook,14.0,8,Windows 10,1.25,1535.0,1920,1080,2.5,Intel,1,0,Intel
+743,751,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.7,999.0,1920,1080,2.5,Intel,1,0,Intel
+744,752,Lenovo,Workstation,15.6,16,Windows 10,2.5,3299.0,3840,2160,2.8,Intel,1,0,Nvidia
+745,753,Acer,Notebook,14.0,2,Other,1.68,330.0,1366,768,1.6,Intel,0,0,Intel
+746,754,Other,Ultrabook,13.3,16,Windows 10,0.81,1649.0,1920,1080,2.7,Intel,1,0,Intel
+747,755,HP,Notebook,15.6,8,Windows 10,1.86,539.0,1920,1080,2.0,Intel,1,0,Intel
+748,757,Dell,Notebook,14.0,8,Windows 10,1.6,1126.71,1366,768,2.5,Intel,1,0,Intel
+749,758,HP,Workstation,17.3,16,Other,3.0,4389.0,1920,1080,2.9,Intel,1,0,Nvidia
+750,759,Lenovo,Netbook,11.6,4,Windows 10,1.4,475.0,1366,768,1.6,Intel,1,0,Intel
+751,760,HP,Notebook,15.6,8,Windows 10,1.84,1900.0,1920,1080,2.4,Intel,1,0,Intel
+752,761,Asus,Notebook,15.6,4,Other,2.45,579.0,1366,768,2.3,Intel,0,1,Nvidia
+753,762,Lenovo,Ultrabook,14.0,4,Windows 10,1.7,1096.0,1920,1080,2.3,Intel,1,0,Intel
+754,763,Asus,Notebook,15.6,4,Windows 10,2.37,849.9,1366,768,2.7,Intel,1,0,Intel
+755,764,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.3,1199.0,3200,1800,1.8,Intel,1,0,Intel
+756,765,HP,Notebook,15.6,8,Windows 10,2.2,1099.0,1920,1080,2.5,Intel,1,1,Nvidia
+757,766,HP,Workstation,15.6,8,Other,2.59,1561.0,1920,1080,2.6,Intel,1,0,Nvidia
+758,767,Dell,Gaming,15.6,16,Windows 10,4.42,2868.99,3840,2160,2.8,Intel,1,1,Nvidia
+759,768,Acer,Notebook,15.6,4,Windows 10,2.1,599.0,1366,768,2.5,Intel,1,0,Intel
+760,769,Lenovo,Gaming,15.6,8,Windows 10,2.5,1048.0,1920,1080,2.8,Intel,1,1,Nvidia
+761,770,Dell,Ultrabook,12.5,16,Windows 10,1.18,1859.0,1920,1080,2.8,Intel,1,0,Intel
+762,771,Other,Ultrabook,12.3,8,Other,1.1,1559.0,2400,1600,1.2,Intel,1,0,Intel
+763,772,Asus,Ultrabook,13.3,8,Windows 10,1.2,1129.0,3200,1800,2.5,Intel,1,0,Intel
+764,773,Dell,Notebook,13.3,4,Windows 10,1.65,849.0,1366,768,2.0,Intel,0,1,Intel
+765,774,Acer,Notebook,13.3,4,Windows 10,1.6,655.0,1366,768,2.3,Intel,1,0,Intel
+766,775,Asus,Notebook,17.3,4,Windows 10,2.8,470.34,1366,768,1.1,Intel,0,1,Nvidia
+767,776,Dell,Gaming,15.6,16,Windows 10,2.72,1099.0,3840,2160,2.6,Intel,1,1,Nvidia
+768,777,Other,Ultrabook,13.3,8,Windows 10,1.31,1599.0,1920,1080,2.7,Intel,1,0,Intel
+769,778,Acer,Notebook,15.6,4,Other,2.1,298.0,1366,768,1.1,Intel,0,1,Intel
+770,779,Dell,Notebook,15.6,16,Windows 10,2.3,1181.27,1920,1080,2.7,Intel,1,0,AMD
+771,780,Other,2 in 1 Convertible,15.0,16,Windows 10,1.71,1799.0,1920,1080,2.7,Intel,1,0,AMD
+772,781,Other,Notebook,14.0,4,Windows 10,1.75,1020.0,1366,768,2.3,Intel,1,0,Intel
+773,782,Dell,Gaming,15.6,8,Windows 10,2.62,1099.0,1920,1080,2.8,Intel,0,1,Nvidia
+774,783,HP,Ultrabook,12.5,4,Windows 10,1.26,1244.0,1366,768,2.3,Intel,1,0,Intel
+775,784,Asus,2 in 1 Convertible,15.6,12,Windows 10,2.3,839.0,1920,1080,2.7,Intel,0,1,Nvidia
+776,785,Lenovo,Notebook,15.6,16,Other,2.5,2370.0,3840,2160,2.7,Intel,1,0,Nvidia
+777,786,Acer,Notebook,14.0,4,Windows 10,1.8,636.0,1920,1080,2.4,Intel,1,0,Intel
+778,787,Other,Gaming,14.0,16,Windows 10,1.95,2899.0,1920,1080,2.8,Intel,1,0,Nvidia
+779,788,Asus,Notebook,15.6,8,Windows 10,2.0,581.9,1920,1080,1.1,Intel,1,0,Intel
+780,789,Dell,Gaming,17.3,32,Windows 10,4.42,3588.8,1920,1080,2.8,Intel,1,1,Nvidia
+781,790,Asus,Gaming,17.3,16,Windows 10,4.3,2350.0,1920,1080,2.6,Intel,1,1,Nvidia
+782,791,Other,Ultrabook,14.0,16,Windows 10,1.47,1764.0,1920,1080,2.6,Intel,1,0,Nvidia
+783,792,Lenovo,Notebook,15.6,8,Other,2.2,329.0,1366,768,1.6,Intel,0,1,Intel
+784,793,Lenovo,Ultrabook,14.0,16,Windows 10,1.7,2299.0,1920,1080,2.7,Intel,1,0,Intel
+785,794,Other,Gaming,14.0,16,Windows 10,1.6,1891.0,1920,1080,2.8,Intel,1,1,Nvidia
+786,795,Other,Gaming,15.6,8,Windows 10,2.2,1089.0,1920,1080,2.5,Intel,1,1,Nvidia
+787,796,Lenovo,Gaming,15.6,4,Windows 10,2.4,999.0,1920,1080,2.8,Intel,0,1,Nvidia
+788,797,Acer,Gaming,17.3,16,Windows 10,4.2,2299.0,1920,1080,2.8,Intel,1,1,Nvidia
+789,798,Dell,Gaming,15.6,8,Windows 10,2.62,985.0,1920,1080,2.5,Intel,1,0,Nvidia
+790,799,Asus,Gaming,15.6,8,Windows 10,2.24,1339.0,1920,1080,2.8,Intel,1,1,Nvidia
+791,800,Other,Notebook,14.0,4,Windows 10,1.22,202.9,1920,1080,1.1,Intel,0,0,Intel
+792,801,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1970.0,1920,1080,2.7,Intel,1,0,Intel
+793,802,Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.08,959.0,1920,1080,2.5,Intel,1,0,AMD
+794,803,Other,Ultrabook,12.0,8,Other,0.92,1165.0,2304,1440,1.2,Intel,0,0,Intel
+795,804,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.42,2330.0,2560,1440,2.5,Intel,1,0,Intel
+796,805,Asus,Notebook,14.0,4,Windows 10,1.63,299.0,1366,768,1.1,Intel,0,0,Intel
+797,806,Dell,Notebook,15.6,8,Windows 10,1.95,810.0,1366,768,2.5,Intel,1,0,Intel
+798,807,Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.38,1349.0,1920,1080,2.7,Intel,1,0,Intel
+799,808,Dell,Notebook,15.6,8,Windows 10,2.0,739.0,1920,1080,2.0,Intel,1,0,AMD
+800,809,HP,Workstation,15.6,8,Windows 10,3.14,2064.9,1920,1080,2.8,Intel,1,0,Nvidia
+801,810,Asus,Notebook,15.6,8,Windows 10,2.37,1099.0,1920,1080,2.5,Intel,1,0,Intel
+802,811,Dell,Ultrabook,13.3,8,Windows 10,1.29,1499.0,1920,1080,2.5,Intel,1,0,Intel
+803,812,Dell,Notebook,15.6,8,Windows 10,2.06,1749.0,3840,2160,2.5,Intel,1,0,Nvidia
+804,813,Dell,Netbook,11.6,4,Windows 10,1.63,744.0,1366,768,1.1,Intel,1,0,Intel
+805,814,HP,Netbook,12.5,8,Windows 10,1.26,1389.0,1366,768,2.6,Intel,1,0,Intel
+806,815,Other,Notebook,15.6,4,Windows 10,2.1,780.0,1366,768,2.3,Intel,0,1,Intel
+807,816,HP,Notebook,15.6,8,Windows 10,2.04,629.0,1366,768,2.5,AMD,0,1,AMD
+808,817,Dell,Gaming,15.6,16,Windows 10,2.62,1679.0,3840,2160,2.8,Intel,1,0,Nvidia
+809,818,Lenovo,Notebook,15.6,4,Windows 10,2.4,609.0,1920,1080,2.5,Intel,0,1,Nvidia
+810,819,HP,Gaming,17.3,12,Windows 10,3.74,1749.0,1920,1080,2.8,Intel,0,1,AMD
+811,820,Other,Gaming,17.3,16,Windows 10,2.9,2415.0,1920,1080,2.8,Intel,1,1,Nvidia
+812,821,Other,Ultrabook,13.3,8,Windows 10,0.81,1499.0,1920,1080,2.5,Intel,1,0,Intel
+813,822,Dell,Notebook,15.6,8,Windows 10,1.98,961.0,1920,1080,2.7,Intel,0,1,Nvidia
+814,823,Dell,Notebook,15.6,8,Windows 10,2.18,789.81,1920,1080,2.5,Intel,1,0,AMD
+815,824,Lenovo,Ultrabook,14.0,8,Windows 10,1.32,1859.0,1920,1080,2.7,Intel,1,0,Intel
+816,825,Other,Ultrabook,12.5,16,Windows 10,1.29,1799.0,3840,2160,2.5,Intel,1,0,Intel
+817,826,HP,Netbook,11.6,4,Other,1.23,385.0,1366,768,1.6,Intel,0,0,Intel
+818,827,Dell,Gaming,17.3,16,Windows 10,4.36,2505.02,1920,1080,2.8,Intel,1,1,Nvidia
+819,828,Dell,Notebook,14.0,4,Windows 10,1.76,755.0,1366,768,2.3,Intel,0,1,Intel
+820,829,Lenovo,Notebook,15.6,4,Windows 10,2.1,489.9,1366,768,2.0,Intel,0,1,Intel
+821,830,Other,Ultrabook,14.0,4,Windows 10,1.25,1090.0,1366,768,2.5,Intel,1,0,Intel
+822,831,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,2499.0,1920,1080,2.7,Intel,1,0,Intel
+823,832,Other,Gaming,15.6,8,Windows 10,2.4,1199.0,1920,1080,2.5,Intel,1,0,Nvidia
+824,833,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,1875.0,1920,1080,2.5,Intel,0,0,Intel
+825,834,Other,Notebook,14.0,4,Windows 10,1.75,499.0,1366,768,2.1,Intel,1,0,Intel
+826,835,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1358.0,1920,1080,2.5,Intel,1,0,Intel
+827,836,Dell,Notebook,14.0,4,Windows 10,1.76,585.0,1366,768,2.0,Intel,0,1,Intel
+828,837,Acer,Netbook,11.6,4,Other,1.35,355.0,1366,768,1.6,Intel,0,0,Intel
+829,838,Acer,Notebook,14.0,8,Windows 10,1.5,619.0,1920,1080,2.4,Intel,1,0,Intel
+830,839,Other,Gaming,17.3,32,Windows 10,3.49,5499.0,3840,2160,2.9,Intel,1,0,Nvidia
+831,840,Lenovo,Ultrabook,14.0,16,Windows 10,1.1,2099.0,2560,1440,2.6,Intel,1,0,Intel
+832,841,Asus,Notebook,15.6,4,Other,2.1,519.0,1920,1080,2.5,Intel,0,1,Nvidia
+833,842,Lenovo,Notebook,14.0,8,Windows 10,1.7,1186.0,1920,1080,2.3,Intel,1,0,Intel
+834,843,Lenovo,Notebook,14.0,8,Windows 10,1.32,1650.0,1920,1080,2.6,Intel,1,0,Intel
+835,844,Dell,Gaming,15.6,16,Windows 10,3.21,2774.63,1920,1080,2.8,Intel,1,1,Nvidia
+836,845,Asus,Gaming,17.3,16,Windows 10,2.9,2419.0,1920,1080,2.8,Intel,1,1,Nvidia
+837,846,Other,Notebook,15.6,4,Windows 10,2.0,669.0,1366,768,2.4,Intel,0,1,Intel
+838,847,Lenovo,Notebook,14.0,4,Other,1.5,325.0,1366,768,1.6,Intel,0,0,Intel
+839,848,Asus,Notebook,15.6,8,Windows 10,2.3,590.0,1920,1080,2.5,Intel,0,1,Intel
+840,849,Asus,Gaming,17.3,16,Windows 10,2.73,1799.0,1920,1080,2.6,Intel,1,1,Nvidia
+841,851,Dell,Gaming,17.3,32,Windows 10,4.42,3072.89,1920,1080,2.8,Intel,1,1,Nvidia
+842,852,HP,Notebook,17.3,8,Windows 10,2.63,910.0,1600,900,2.5,Intel,0,1,Nvidia
+843,853,Dell,Notebook,15.6,8,Windows 10,2.18,713.99,1366,768,2.5,Intel,1,0,Intel
+844,854,HP,Ultrabook,14.0,8,Other,1.54,1870.0,1920,1080,2.5,Intel,1,0,Intel
+845,855,Dell,Notebook,15.6,4,Windows 10,2.18,739.0,1920,1080,2.7,Intel,1,0,AMD
+846,856,HP,2 in 1 Convertible,11.6,4,Other,1.4,615.0,1366,768,1.1,Intel,0,0,Intel
+847,857,Asus,Ultrabook,13.3,8,Windows 10,1.45,1026.0,1920,1080,2.3,Intel,1,0,Nvidia
+848,858,HP,2 in 1 Convertible,13.3,8,Windows 10,1.28,2277.0,1920,1080,2.5,Intel,1,0,Intel
+849,859,HP,Ultrabook,14.0,8,Windows 10,1.54,1468.0,1920,1080,2.5,Intel,1,0,Intel
+850,860,HP,Notebook,15.6,4,Other,1.86,299.0,1366,768,1.6,Intel,1,0,Intel
+851,862,Asus,Gaming,15.6,16,Windows 10,2.1,1899.0,1920,1080,2.8,Intel,1,1,Nvidia
+852,863,Dell,Notebook,17.3,8,Other,2.83,865.0,1920,1080,2.7,Intel,0,1,AMD
+853,864,Lenovo,Ultrabook,14.0,8,Windows 10,1.96,1903.0,1920,1080,2.8,Intel,1,0,Nvidia
+854,865,Asus,Notebook,15.6,8,Windows 10,2.3,787.0,1920,1080,2.7,Intel,1,0,Nvidia
+855,866,Dell,Notebook,15.6,8,Windows 10,1.9,945.0,1920,1080,2.5,Intel,1,0,Intel
+856,867,Asus,Notebook,15.6,4,Windows 10,2.0,449.0,1366,768,1.1,Intel,0,1,Intel
+857,868,HP,2 in 1 Convertible,13.3,8,Windows 10,1.28,2559.0,1920,1080,2.8,Intel,1,0,Intel
+858,869,Dell,Notebook,13.3,8,Windows 10,1.62,649.0,1920,1080,2.3,Intel,0,1,Intel
+859,870,Lenovo,Notebook,15.6,4,Other,2.2,469.0,1920,1080,2.0,Intel,0,1,Intel
+860,871,Lenovo,Notebook,15.6,8,Windows 10,2.3,850.66,1920,1080,2.5,Intel,0,1,Intel
+861,872,HP,Notebook,15.6,8,Windows 10,1.84,1349.0,1920,1080,2.6,Intel,1,0,AMD
+862,873,Other,Notebook,13.3,4,Windows 10,1.05,1285.0,1920,1080,2.5,Intel,1,0,Intel
+863,874,Lenovo,Gaming,15.6,8,Other,2.5,1017.0,1920,1080,2.5,Intel,0,1,Nvidia
+864,875,Dell,Ultrabook,13.3,16,Windows 10,1.29,2240.0,3200,1800,2.5,Intel,1,0,Intel
+865,876,HP,Notebook,15.6,4,Windows 10,2.07,910.0,1920,1080,2.3,Intel,0,1,Intel
+866,877,Other,Ultrabook,13.3,8,Windows 10,1.2,1095.0,1366,768,2.3,Intel,1,0,Intel
+867,878,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1950.0,1920,1080,2.7,Intel,1,0,Intel
+868,879,Acer,Notebook,14.0,8,Windows 10,1.56,902.0,1920,1080,2.5,Intel,1,0,Intel
+869,880,Dell,Workstation,15.6,8,Windows 10,2.23,1778.0,1920,1080,2.8,Intel,0,1,Nvidia
+870,881,Lenovo,Notebook,15.6,4,Windows 10,2.38,1055.0,1366,768,2.5,Intel,0,1,Intel
+871,882,Lenovo,Notebook,15.6,4,Other,2.2,479.0,1920,1080,2.0,Intel,0,1,AMD
+872,883,Other,Notebook,15.6,8,Windows 10,2.0,1388.0,1920,1080,2.7,Intel,1,0,Intel
+873,884,Lenovo,Notebook,13.3,4,Windows 10,1.44,735.0,1920,1080,2.4,Intel,1,0,Intel
+874,885,Other,Ultrabook,15.0,16,Windows 10,1.23,1849.0,1920,1080,2.7,Intel,1,0,Nvidia
+875,886,Dell,Ultrabook,12.5,8,Windows 10,1.6,1690.0,1920,1080,2.8,Intel,1,0,Intel
+876,887,Asus,Notebook,15.6,4,Other,2.0,398.99,1366,768,1.1,Intel,0,1,Intel
+877,888,Other,Ultrabook,13.3,8,Windows 10,1.28,935.0,1920,1080,2.3,Intel,1,0,Nvidia
+878,889,Dell,Notebook,15.6,4,Windows 10,2.18,912.5,1920,1080,2.5,Intel,1,1,Nvidia
+879,890,HP,Notebook,15.6,4,Windows 10,2.04,839.0,1920,1080,2.5,Intel,1,0,Intel
+880,891,HP,2 in 1 Convertible,13.3,4,Windows 10,1.28,1700.0,1920,1080,2.5,Intel,1,0,Intel
+881,892,HP,2 in 1 Convertible,15.6,4,Windows 10,2.3,684.8,1366,768,2.5,Intel,0,1,Intel
+882,893,Asus,Notebook,14.1,4,Windows 10,1.65,348.0,1366,768,1.1,Intel,0,0,Intel
+883,894,Lenovo,Notebook,15.6,8,Windows 10,2.2,669.0,1920,1080,2.5,Intel,0,1,Nvidia
+884,895,Dell,Notebook,15.6,4,Windows 10,2.2,369.0,1366,768,1.6,Intel,0,1,Intel
+885,896,HP,2 in 1 Convertible,13.3,4,Windows 10,1.28,1799.0,1920,1080,2.5,Intel,1,0,Intel
+886,897,Dell,Notebook,15.6,4,Other,2.18,455.7,1366,768,2.0,Intel,0,1,AMD
+887,898,Asus,Gaming,17.3,12,Windows 10,2.2,1369.9,1920,1080,2.5,Intel,1,1,Nvidia
+888,899,Acer,Netbook,11.6,4,Other,1.25,297.0,1366,768,1.6,Intel,0,0,Intel
+889,900,Lenovo,Notebook,17.3,4,Windows 10,2.8,379.0,1600,900,2.2,AMD,0,1,AMD
+890,901,HP,Notebook,14.0,4,Windows 10,1.95,1265.0,1920,1080,2.5,Intel,1,0,Intel
+891,902,HP,2 in 1 Convertible,13.3,16,Windows 10,1.42,1399.0,3200,1800,2.7,Intel,1,0,Intel
+892,903,Other,Ultrabook,15.0,8,Windows 10,1.17,1699.0,1920,1080,2.7,Intel,1,0,Intel
+893,904,Lenovo,Ultrabook,14.0,8,Windows 10,1.32,1799.0,1920,1080,2.5,Intel,1,0,Intel
+894,905,Other,Gaming,17.3,16,Windows 10,2.43,2649.0,3840,2160,2.6,Intel,1,1,Nvidia
+895,906,Other,Notebook,13.3,8,Windows 10,1.05,1475.0,1920,1080,2.5,Intel,1,0,Intel
+896,908,Dell,Gaming,15.6,8,Other,2.62,929.0,1920,1080,2.8,Intel,0,1,Nvidia
+897,909,HP,Notebook,15.6,8,Windows 10,2.04,900.0,1920,1080,2.7,Intel,0,1,Nvidia
+898,910,Dell,Notebook,15.6,4,Windows 10,2.18,614.0,1366,768,2.0,Intel,0,1,AMD
+899,911,Dell,Notebook,15.6,8,Windows 10,1.9,935.0,1920,1080,2.6,Intel,0,1,Intel
+900,912,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,2013.1,3200,1800,1.3,Intel,1,0,Intel
+901,913,Asus,Gaming,17.3,32,Windows 10,3.58,1279.0,1920,1080,2.7,Intel,1,0,Nvidia
+902,914,Dell,2 in 1 Convertible,13.3,16,Windows 10,1.22,1649.0,1920,1080,1.3,Intel,1,0,Intel
+903,915,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,2049.0,1920,1080,2.7,Intel,0,0,Intel
+904,916,Lenovo,Notebook,15.6,8,Windows 10,1.95,1962.99,1920,1080,2.5,Intel,1,0,Intel
+905,917,Other,Ultrabook,15.6,16,Windows 10,1.08,2099.0,1920,1080,2.7,Intel,1,0,Intel
+906,918,HP,Netbook,12.5,8,Windows 10,1.26,1483.0,1920,1080,2.7,Intel,1,0,Intel
+907,919,Acer,Notebook,15.6,4,Other,2.2,359.0,1920,1080,1.5,Intel,0,0,Intel
+908,920,Lenovo,Notebook,15.6,8,Windows 10,2.6,789.0,1920,1080,2.3,Intel,1,1,Nvidia
+909,922,Other,Ultrabook,14.0,8,Windows 10,0.98,1899.0,1920,1080,2.7,Intel,1,0,Intel
+910,923,Dell,Notebook,14.0,8,Windows 10,1.6,1205.0,1920,1080,2.8,Intel,1,0,Intel
+911,924,HP,Ultrabook,12.5,8,Windows 10,1.09,3100.0,3840,2160,1.2,Intel,1,0,Intel
+912,925,Lenovo,Notebook,15.6,6,Windows 10,2.2,789.0,1920,1080,2.7,Intel,1,0,Nvidia
+913,926,HP,Notebook,15.6,8,Windows 10,2.04,1018.99,1920,1080,2.7,Intel,1,0,Nvidia
+914,927,Acer,Notebook,15.6,4,Windows 10,2.4,499.0,1920,1080,2.4,Intel,0,1,Intel
+915,928,Lenovo,Notebook,13.3,4,Windows 10,1.44,881.0,1920,1080,2.5,Intel,1,0,Intel
+916,930,HP,Notebook,13.3,8,Windows 10,1.49,960.0,1920,1080,2.5,Intel,1,0,Intel
+917,931,Other,Gaming,17.3,16,Windows 10,2.7,1599.0,1920,1080,2.8,Intel,1,1,Nvidia
+918,932,Dell,Gaming,15.6,16,Windows 10,2.6,1349.0,1920,1080,2.8,Intel,1,1,Nvidia
+919,933,Other,Gaming,15.6,8,Windows 10,2.2,1119.91,1920,1080,2.5,Intel,1,1,Nvidia
+920,934,Dell,Notebook,15.6,4,Windows 10,2.18,684.99,1366,768,2.5,Intel,0,1,AMD
+921,935,HP,Ultrabook,15.6,8,Windows 10,1.84,1296.99,1920,1080,2.5,Intel,1,0,AMD
+922,936,HP,Ultrabook,13.3,8,Windows 10,1.39,1149.0,3200,1800,2.7,Intel,1,0,Intel
+923,937,Other,Notebook,15.6,16,Windows 10,2.4,1975.0,1920,1080,2.6,Intel,1,0,Nvidia
+924,938,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1825.0,1920,1080,2.5,Intel,1,0,Intel
+925,939,Dell,Notebook,15.6,4,Windows 10,1.95,729.9,1366,768,2.3,Intel,0,1,Intel
+926,940,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1650.0,1920,1080,2.7,Intel,1,0,Intel
+927,941,HP,Notebook,15.6,8,Windows 10,2.31,1165.0,1920,1080,2.3,Intel,1,0,Intel
+928,942,Dell,Notebook,15.6,4,Windows 10,2.18,708.06,1366,768,2.5,Intel,0,1,Intel
+929,943,HP,Notebook,14.0,4,Windows 10,1.95,1149.0,1366,768,2.3,Intel,0,1,Intel
+930,944,Lenovo,Notebook,15.6,4,Windows 10,2.2,309.0,1366,768,1.1,Intel,0,1,Intel
+931,945,HP,Ultrabook,12.5,4,Windows 10,1.26,1579.0,1920,1080,2.3,Intel,0,1,Intel
+932,946,HP,Notebook,15.6,4,Other,1.86,288.9,1366,768,1.6,Intel,0,1,Intel
+933,947,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1799.0,3200,1800,2.2,Intel,1,0,Intel
+934,948,Other,Notebook,14.0,4,Windows 10,1.47,1105.0,1920,1080,2.3,Intel,1,0,Intel
+935,949,HP,Netbook,12.5,8,Windows 10,1.26,1669.0,1920,1080,2.3,Intel,1,0,Intel
+936,950,Dell,Notebook,15.6,4,Windows 10,2.18,558.6,1366,768,2.0,Intel,0,1,Intel
+937,951,Other,Gaming,15.6,8,Windows 10,2.2,1199.0,1920,1080,2.8,Intel,1,1,Nvidia
+938,952,Dell,Ultrabook,14.0,8,Windows 10,1.36,1639.0,1920,1080,2.5,Intel,1,0,Intel
+939,953,Dell,Gaming,17.3,16,Windows 10,4.36,2758.0,2560,1440,2.7,Intel,1,1,Nvidia
+940,954,HP,Gaming,17.3,8,Windows 10,2.75,1399.0,1920,1080,2.3,Intel,1,1,Nvidia
+941,955,Asus,Notebook,17.3,4,Windows 10,2.8,530.0,1600,900,1.6,Intel,0,1,Nvidia
+942,956,Acer,Notebook,15.6,4,Windows 10,2.23,619.0,1366,768,2.5,Intel,0,1,Intel
+943,957,Other,Notebook,15.6,8,Windows 10,2.2,1119.0,1366,768,2.3,Intel,1,0,Intel
+944,958,Lenovo,2 in 1 Convertible,11.3,8,Windows 10,1.1,1299.0,1920,1080,1.2,Intel,1,0,Intel
+945,959,Lenovo,Gaming,15.6,16,Windows 10,2.5,999.0,1920,1080,2.1,AMD,1,1,AMD
+946,960,Dell,Ultrabook,12.5,8,Windows 10,1.36,1472.2,1920,1080,2.5,Intel,1,0,Intel
+947,961,Lenovo,Notebook,15.6,8,Other,2.2,685.0,1920,1080,2.7,Intel,0,1,Nvidia
+948,962,Dell,Notebook,17.3,4,Windows 10,2.36,659.0,1600,900,2.0,Intel,0,1,AMD
+949,963,Acer,Notebook,14.0,4,Other,1.68,349.0,1366,768,1.6,Intel,0,0,Intel
+950,964,HP,Workstation,15.6,8,Windows 10,2.0,2249.0,1920,1080,2.7,Intel,1,0,Nvidia
+951,965,Dell,Ultrabook,14.0,8,Windows 10,1.36,1775.0,1920,1080,2.8,Intel,1,0,Intel
+952,966,Other,Notebook,13.3,8,Other,1.2,1460.0,1920,1080,2.3,Intel,1,0,Intel
+953,967,Asus,2 in 1 Convertible,12.5,8,Other,1.2,1159.0,1920,1080,1.2,Intel,0,0,Intel
+954,968,Lenovo,Ultrabook,14.0,8,Windows 10,1.7,1488.99,1920,1080,2.6,Intel,1,0,Intel
+955,969,Dell,Gaming,17.3,16,Windows 10,4.36,3154.0,3840,2160,2.8,Intel,1,1,Nvidia
+956,970,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,1899.0,1920,1080,1.2,Intel,1,0,Intel
+957,971,HP,2 in 1 Convertible,11.6,4,Windows 10,1.45,775.0,1366,768,1.1,Intel,1,0,Intel
+958,972,Dell,Ultrabook,13.3,8,Windows 10,1.3,1268.0,3200,1800,2.5,Intel,1,0,Intel
+959,973,Acer,2 in 1 Convertible,11.6,4,Other,1.25,389.0,1366,768,1.6,Intel,0,0,Intel
+960,974,Other,Notebook,13.3,8,Windows 10,1.2,1535.0,1920,1080,2.4,Intel,1,0,Intel
+961,975,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1760.0,1920,1080,2.6,Intel,1,0,Intel
+962,976,Acer,Notebook,15.6,12,Windows 10,2.4,1009.0,1920,1080,2.5,Intel,1,1,Nvidia
+963,977,Other,Ultrabook,12.5,8,Windows 10,1.1,1790.0,1920,1080,2.7,Intel,1,0,Intel
+964,978,HP,Notebook,15.6,8,Windows 10,2.04,846.5,1366,768,2.5,Intel,0,1,Nvidia
+965,979,Dell,Notebook,15.6,4,Other,2.25,465.62,1366,768,2.0,Intel,0,1,AMD
+966,980,Dell,Notebook,15.6,4,Windows 10,1.9,825.0,1366,768,2.5,Intel,0,1,Intel
+967,981,HP,Notebook,15.6,4,Windows 10,2.04,685.0,1920,1080,2.4,Intel,0,1,Intel
+968,982,Dell,Gaming,17.3,32,Windows 10,4.42,3149.0,1920,1080,2.8,Intel,1,1,Nvidia
+969,983,Lenovo,Notebook,15.6,6,Windows 10,2.4,695.0,1920,1080,2.5,Intel,1,0,Nvidia
+970,984,Dell,2 in 1 Convertible,13.3,16,Windows 10,1.22,1899.0,3200,1800,1.3,Intel,1,0,Intel
+971,985,Dell,Ultrabook,14.0,8,Windows 10,1.5,1962.98,2560,1440,2.6,Intel,1,0,Intel
+972,986,Dell,Gaming,17.3,32,Windows 10,4.42,2800.0,1920,1080,2.6,Intel,1,1,Nvidia
+973,987,Other,Notebook,14.0,8,Windows 10,1.95,1180.0,1920,1080,2.3,Intel,1,0,Intel
+974,988,Asus,Gaming,17.3,16,Windows 10,2.73,2049.9,1920,1080,2.8,Intel,1,1,Nvidia
+975,989,HP,Notebook,15.6,8,Windows 10,2.04,979.0,1920,1080,2.7,Intel,1,1,Nvidia
+976,990,Lenovo,Notebook,14.0,4,Other,1.7,1002.0,1366,768,2.3,Intel,0,0,Intel
+977,991,Asus,2 in 1 Convertible,15.6,16,Windows 10,2.3,1799.0,3840,2160,2.7,Intel,1,1,Nvidia
+978,992,HP,Notebook,15.6,6,Windows 10,2.04,579.0,1366,768,2.7,Intel,0,1,Intel
+979,993,Asus,Gaming,17.3,16,Windows 10,2.99,1749.0,1920,1080,2.8,Intel,1,1,Nvidia
+980,994,Dell,2 in 1 Convertible,15.6,12,Windows 10,2.19,1299.0,1920,1080,2.7,Intel,1,0,Intel
+981,995,Other,Notebook,13.3,4,Other,1.2,1195.0,1920,1080,2.3,Intel,1,0,Intel
+982,996,Lenovo,Notebook,15.6,6,Windows 10,2.2,549.0,1920,1080,3.6,AMD,1,0,AMD
+983,997,Other,Notebook,15.6,4,Windows 10,2.3,649.0,1366,768,2.3,Intel,1,0,Intel
+984,998,Other,Notebook,14.0,4,Windows 10,1.75,915.0,1366,768,2.3,Intel,0,1,Intel
+985,999,Dell,Notebook,15.6,4,Windows 10,2.25,599.0,1366,768,2.5,Intel,0,1,AMD
+986,1000,HP,Notebook,15.6,8,Windows 10,2.04,806.0,1920,1080,2.5,Intel,0,1,Intel
+987,1001,Lenovo,Gaming,15.6,8,Windows 10,2.5,1189.0,1920,1080,2.8,Intel,1,1,Nvidia
+988,1002,Dell,Notebook,15.6,8,Windows 10,2.36,749.0,1366,768,2.7,Intel,0,1,AMD
+989,1003,Dell,Notebook,14.0,8,Windows 10,1.6,1119.0,1920,1080,2.5,Intel,1,0,Intel
+990,1004,HP,Netbook,12.5,8,Windows 10,0.97,1908.0,1920,1080,1.2,Intel,1,0,Intel
+991,1005,HP,Notebook,15.6,4,Windows 10,2.1,499.0,1920,1080,2.0,Intel,1,1,AMD
+992,1006,Lenovo,Notebook,15.6,4,Other,1.9,270.62,1366,768,1.1,Intel,1,0,Intel
+993,1007,Lenovo,Notebook,15.6,8,Windows 10,2.3,1349.0,1920,1080,2.3,Intel,1,0,Intel
+994,1008,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.68,889.0,1920,1080,2.5,Intel,1,0,Intel
+995,1009,Asus,Notebook,13.3,8,Windows 10,1.4,1150.0,3200,1800,2.5,Intel,1,0,Intel
+996,1010,HP,Ultrabook,13.3,8,Windows 10,1.11,1349.0,1920,1080,2.7,Intel,1,0,Intel
+997,1011,Acer,Notebook,15.6,4,Windows 10,2.4,380.0,1366,768,1.1,Intel,0,1,Intel
+998,1012,Asus,Gaming,15.6,16,Windows 10,2.5,1799.0,1920,1080,2.8,Intel,1,1,Nvidia
+999,1013,HP,Ultrabook,14.0,8,Windows 10,1.48,2089.0,1920,1080,2.7,Intel,1,0,Intel
+1000,1014,Acer,Gaming,15.6,8,Windows 10,2.7,1260.0,1920,1080,2.8,Intel,1,1,Nvidia
+1001,1015,HP,Notebook,13.3,8,Windows 10,1.34,1189.0,1920,1080,2.5,Intel,1,0,Intel
+1002,1016,Dell,Notebook,15.6,4,Windows 10,2.18,547.0,1366,768,2.4,Intel,1,0,Intel
+1003,1017,HP,Notebook,14.0,4,Windows 10,1.64,779.0,1366,768,2.5,Intel,0,1,Intel
+1004,1018,Other,Notebook,13.3,4,Windows 10,1.2,1195.0,1920,1080,2.3,Intel,1,0,Intel
+1005,1019,HP,Notebook,14.0,4,Windows 10,1.48,1099.99,1366,768,2.4,Intel,1,0,Intel
+1006,1020,HP,Notebook,14.0,4,Windows 10,1.95,1205.0,1920,1080,2.5,Intel,1,0,Intel
+1007,1021,HP,Ultrabook,14.0,8,Other,1.43,1449.0,1920,1080,2.6,Intel,1,0,Intel
+1008,1022,HP,Notebook,14.0,8,Windows 10,1.64,1049.26,1920,1080,2.5,Intel,1,0,Nvidia
+1009,1023,HP,Notebook,14.0,4,Windows 10,1.64,684.0,1366,768,2.4,Intel,0,1,Intel
+1010,1024,Dell,Gaming,15.6,8,Windows 10,2.65,949.0,1920,1080,2.5,Intel,0,0,Nvidia
+1011,1025,HP,Ultrabook,12.5,4,Windows 10,1.26,1539.0,1920,1080,2.5,Intel,0,1,Intel
+1012,1026,HP,Notebook,14.0,4,Windows 10,1.48,1590.0,1920,1080,2.5,Intel,1,0,Intel
+1013,1027,HP,Ultrabook,14.0,8,Windows 10,1.54,1887.21,1920,1080,2.5,Intel,1,0,Intel
+1014,1028,HP,Notebook,13.3,4,Windows 10,1.49,800.0,1366,768,2.4,Intel,0,1,Intel
+1015,1029,Other,Notebook,13.3,8,Windows 10,1.5,1210.0,1366,768,2.3,Intel,1,0,Intel
+1016,1030,HP,Notebook,15.6,4,Windows 10,2.04,769.99,1366,768,2.4,Intel,1,0,Intel
+1017,1031,Lenovo,Notebook,17.3,16,Other,2.4,2968.0,3840,2160,2.7,Intel,1,0,Nvidia
+1018,1032,Other,Notebook,14.0,8,Windows 10,1.47,1490.0,1920,1080,2.3,Intel,1,0,Intel
+1019,1033,HP,Notebook,14.0,8,Windows 10,1.43,2229.0,1920,1080,2.5,Intel,1,0,Intel
+1020,1034,Dell,2 in 1 Convertible,15.6,4,Windows 10,2.08,795.99,1920,1080,2.3,Intel,0,1,Intel
+1021,1035,Other,Ultrabook,13.3,8,Windows 10,1.2,1590.0,1920,1080,2.3,Intel,1,0,Intel
+1022,1036,HP,Notebook,13.3,8,Windows 10,1.11,1149.0,1920,1080,2.5,Intel,1,0,Intel
+1023,1037,HP,Notebook,14.0,8,Windows 10,1.64,1185.43,1920,1080,2.7,Intel,1,0,Nvidia
+1024,1038,Dell,Notebook,15.6,8,Windows 10,2.09,1046.44,1920,1080,2.4,Intel,0,1,Intel
+1025,1039,HP,Ultrabook,12.5,4,Windows 10,1.26,1559.0,1366,768,2.5,Intel,1,0,Intel
+1026,1040,HP,Notebook,14.0,4,Windows 10,2.31,1189.0,1366,768,2.5,Intel,0,1,Intel
+1027,1041,HP,Notebook,14.0,4,Windows 10,1.95,1060.0,1366,768,2.5,Intel,0,1,Intel
+1028,1042,Dell,Ultrabook,13.3,8,Windows 10,1.29,1624.0,3200,1800,2.5,Intel,1,0,Intel
+1029,1043,HP,Notebook,17.3,8,Windows 10,2.63,1080.0,1920,1080,2.5,Intel,1,0,Nvidia
+1030,1044,HP,Notebook,14.0,4,Windows 10,1.64,973.0,1366,768,2.5,Intel,1,0,Intel
+1031,1045,Acer,Notebook,15.6,6,Windows 10,2.1,409.0,1366,768,3.0,AMD,0,1,AMD
+1032,1046,Other,Gaming,17.3,8,Windows 10,2.7,1191.8,1920,1080,2.8,Intel,1,1,Nvidia
+1033,1047,HP,Notebook,14.0,8,Other,1.95,1195.0,1920,1080,2.3,Intel,1,0,Intel
+1034,1048,HP,Notebook,15.6,8,Windows 10,1.84,1228.99,1920,1080,2.5,Intel,1,0,Intel
+1035,1049,HP,Ultrabook,12.5,8,Windows 10,1.26,1349.0,1920,1080,2.5,Intel,1,0,Intel
+1036,1050,HP,Notebook,15.6,4,Windows 10,2.04,742.0,1366,768,2.5,Intel,0,1,Intel
+1037,1051,Other,Ultrabook,14.0,8,Windows 10,1.47,1725.0,1920,1080,2.6,Intel,1,0,Intel
+1038,1052,Dell,Notebook,15.6,8,Other,2.09,1062.95,1920,1080,2.4,Intel,1,0,Intel
+1039,1053,HP,Notebook,14.0,8,Windows 10,1.64,1010.51,1920,1080,2.5,Intel,1,0,Intel
+1040,1054,Lenovo,2 in 1 Convertible,15.6,4,Windows 10,1.8,847.0,1920,1080,2.5,Intel,1,0,Intel
+1041,1055,Other,Notebook,14.0,2,Windows 10,1.45,210.8,1366,768,1.44,Intel,0,0,Intel
+1042,1056,Other,Notebook,15.6,16,Windows 10,2.4,1425.0,1920,1080,2.5,Intel,1,0,Nvidia
+1043,1057,Lenovo,Notebook,15.6,8,Windows 10,2.3,1049.6,1920,1080,2.3,Intel,1,0,Intel
+1044,1058,HP,Notebook,14.0,4,Windows 10,1.54,1000.0,1920,1080,2.3,Intel,0,1,Intel
+1045,1059,HP,Notebook,15.6,8,Windows 10,1.84,2103.34,1920,1080,2.4,Intel,1,1,Intel
+1046,1060,HP,Notebook,14.0,8,Other,1.43,1469.0,1920,1080,2.3,Intel,1,0,Intel
+1047,1061,Other,Gaming,17.3,16,Windows 10,3.78,1545.64,1920,1080,2.7,Intel,1,1,Nvidia
+1048,1062,Lenovo,Gaming,17.3,16,Windows 10,4.6,2289.99,1920,1080,2.6,Intel,1,1,Nvidia
+1049,1063,Asus,Netbook,11.6,4,Other,1.2,287.9,1366,768,1.6,Intel,0,0,Intel
+1050,1064,Lenovo,Notebook,14.0,16,Other,1.1,2620.0,2560,1440,2.6,Intel,1,0,Intel
+1051,1065,HP,Notebook,15.6,8,Windows 10,1.91,979.0,1920,1080,2.7,Intel,0,1,Nvidia
+1052,1066,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.3,1094.0,1920,1080,2.7,Intel,1,0,Intel
+1053,1067,HP,Notebook,15.6,4,Windows 10,2.04,979.0,1366,768,2.5,Intel,1,0,Intel
+1054,1068,Dell,Ultrabook,13.3,16,Windows 10,1.2,2254.0,3200,1800,2.7,Intel,1,0,Intel
+1055,1069,HP,Notebook,15.6,4,Windows 10,2.31,705.15,1366,768,2.3,Intel,0,1,Intel
+1056,1070,HP,Notebook,15.6,4,Other,1.96,499.0,1366,768,2.5,Intel,0,1,Intel
+1057,1071,Acer,Notebook,15.6,8,Windows 10,2.4,449.0,1366,768,2.2,AMD,0,1,AMD
+1058,1072,Dell,2 in 1 Convertible,13.3,12,Windows 10,1.6,1299.0,1920,1080,2.7,Intel,1,0,Intel
+1059,1073,Other,Gaming,15.6,16,Windows 10,2.94,1819.0,1920,1080,2.6,Intel,1,1,Nvidia
+1060,1074,HP,Notebook,15.6,8,Windows 10,2.04,1070.0,1920,1080,2.7,Intel,1,0,Intel
+1061,1075,Asus,Gaming,17.3,16,Other,4.0,998.0,1920,1080,2.6,Intel,0,1,Nvidia
+1062,1076,Dell,Notebook,15.6,4,Windows 10,2.25,559.0,1920,1080,2.5,Intel,0,1,Intel
+1063,1077,Dell,Notebook,15.6,16,Windows 10,2.32,989.99,1920,1080,2.7,Intel,0,1,AMD
+1064,1079,Other,Gaming,15.6,16,Windows 10,1.8,1929.0,1920,1080,2.6,Intel,1,1,Nvidia
+1065,1080,Dell,Ultrabook,13.3,8,Windows 10,1.29,1458.0,1920,1080,2.7,Intel,1,0,Intel
+1066,1081,Asus,Gaming,17.3,64,Windows 10,3.58,3975.0,1920,1080,2.7,Intel,1,0,Nvidia
+1067,1082,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,798.01,1920,1080,2.5,Intel,1,0,Intel
+1068,1083,Dell,Gaming,15.6,16,Windows 10,3.21,1329.0,3840,2160,2.6,Intel,1,1,Nvidia
+1069,1084,Other,Ultrabook,12.0,8,Other,0.92,1300.0,2304,1440,1.1,Intel,0,0,Intel
+1070,1085,Dell,Notebook,15.6,4,Windows 10,2.06,481.98,1366,768,2.3,Intel,0,1,Intel
+1071,1086,HP,Notebook,15.6,4,Windows 10,2.31,1199.0,1366,768,2.3,Intel,0,1,Intel
+1072,1087,HP,Ultrabook,12.5,8,Other,1.26,1199.0,1920,1080,2.3,Intel,1,0,Intel
+1073,1088,HP,Notebook,13.3,8,Windows 10,1.49,1090.0,1920,1080,2.7,Intel,1,0,Intel
+1074,1089,Lenovo,Ultrabook,12.5,8,Windows 10,1.3,1713.49,1920,1080,2.5,Intel,1,0,Intel
+1075,1090,Lenovo,Notebook,17.3,8,Windows 10,3.0,659.0,1600,900,2.3,Intel,0,1,AMD
+1076,1091,Lenovo,Notebook,15.6,4,Windows 10,2.3,977.0,1920,1080,2.3,Intel,0,1,Nvidia
+1077,1092,Other,Gaming,17.3,16,Windows 10,3.78,2499.0,1920,1080,2.8,Intel,1,1,Nvidia
+1078,1093,Lenovo,Notebook,15.6,4,Windows 10,2.1,540.0,1366,768,2.3,Intel,0,1,Intel
+1079,1094,HP,Notebook,15.6,4,Other,2.31,940.0,1920,1080,2.3,Intel,0,1,Intel
+1080,1095,Lenovo,Ultrabook,12.5,8,Windows 10,0.99,1399.0,2560,1440,1.2,Intel,1,0,Intel
+1081,1096,Lenovo,Gaming,17.3,32,Windows 10,4.6,3240.0,1920,1080,2.7,Intel,1,0,Nvidia
+1082,1097,Lenovo,2 in 1 Convertible,10.1,4,Windows 10,0.69,646.27,1920,1200,1.44,Intel,0,0,Intel
+1083,1098,HP,Ultrabook,13.3,16,Windows 10,1.3,2049.0,3840,2160,2.7,Intel,1,0,Intel
+1084,1099,Dell,Notebook,15.6,8,Windows 10,2.18,750.0,1920,1080,2.5,Intel,1,0,Intel
+1085,1100,HP,Notebook,14.0,4,Other,1.54,1030.99,1920,1080,2.3,Intel,0,1,Intel
+1086,1101,HP,Workstation,15.6,8,Other,1.9,1495.0,1920,1080,2.5,Intel,1,0,AMD
+1087,1102,Lenovo,Notebook,14.0,8,Other,1.7,1199.0,1920,1080,2.3,Intel,1,0,Intel
+1088,1103,HP,Notebook,13.3,4,Other,1.29,615.0,3200,1800,1.5,Intel,0,0,Intel
+1089,1104,Acer,Notebook,15.6,4,Windows 10,2.4,387.0,1366,768,2.2,AMD,0,1,AMD
+1090,1105,Dell,Notebook,15.6,4,Other,2.2,393.49,1366,768,1.6,Intel,0,1,Intel
+1091,1106,HP,Notebook,15.6,4,Other,1.86,345.99,1366,768,2.0,Intel,0,1,Intel
+1092,1107,Asus,Gaming,17.3,8,Windows 10,2.7,1599.0,1920,1080,2.8,Intel,1,1,Nvidia
+1093,1108,Dell,Ultrabook,13.3,4,Windows 10,1.4,818.35,1920,1080,1.6,Intel,1,0,AMD
+1094,1109,HP,Netbook,12.5,4,Other,2.4,1599.0,1366,768,2.3,Intel,1,0,Intel
+1095,1110,Acer,Notebook,15.6,8,Windows 10,2.4,799.0,1920,1080,2.5,Intel,1,1,Nvidia
+1096,1111,Dell,Notebook,15.6,8,Windows 10,2.36,638.8,1920,1080,2.5,Intel,0,1,AMD
+1097,1112,Other,Gaming,17.3,8,Windows 10,2.6,1599.0,1920,1080,2.6,Intel,1,0,Nvidia
+1098,1113,HP,Notebook,15.6,4,Windows 10,1.96,500.0,1366,768,1.6,Intel,0,1,Intel
+1099,1114,Asus,Gaming,17.3,16,Windows 10,4.3,2299.0,1920,1080,2.6,Intel,1,1,Nvidia
+1100,1115,Dell,Ultrabook,12.5,4,Other,1.5,1135.15,1366,768,2.3,Intel,0,1,Intel
+1101,1116,Dell,Ultrabook,12.5,4,Other,1.5,1166.97,1366,768,2.3,Intel,1,0,Intel
+1102,1117,Acer,Notebook,15.6,4,Other,2.2,209.0,1366,768,1.5,Intel,1,0,Intel
+1103,1118,HP,Workstation,17.3,8,Other,3.0,2899.0,1920,1080,2.6,Intel,0,1,AMD
+1104,1119,Lenovo,Gaming,15.6,16,Windows 10,2.4,1199.0,1920,1080,2.8,Intel,1,0,Nvidia
+1105,1120,Dell,Ultrabook,12.5,8,Other,1.5,1413.1,1366,768,2.3,Intel,1,0,Intel
+1106,1121,Other,Gaming,17.3,8,Windows 10,2.9,1511.19,1920,1080,2.6,Intel,1,1,Nvidia
+1107,1122,Lenovo,2 in 1 Convertible,15.6,4,Windows 10,2.1,867.0,1920,1080,2.3,Intel,1,0,Intel
+1108,1123,HP,Notebook,15.6,4,Windows 10,2.1,398.0,1920,1080,2.5,AMD,0,1,AMD
+1109,1124,Asus,Gaming,15.6,16,Windows 10,2.59,1339.0,1920,1080,2.6,Intel,1,1,Nvidia
+1110,1125,HP,Notebook,13.3,8,Windows 10,1.16,1699.0,3200,1800,1.1,Intel,1,0,Intel
+1111,1126,Dell,Notebook,15.6,4,Other,2.24,769.15,1366,768,2.3,Intel,0,1,AMD
+1112,1127,Lenovo,Notebook,15.6,4,Windows 10,2.1,429.0,1366,768,2.0,Intel,1,0,Intel
+1113,1128,HP,Ultrabook,13.3,8,Windows 10,1.16,1969.0,1920,1080,2.5,Intel,1,0,Intel
+1114,1129,Lenovo,2 in 1 Convertible,10.1,4,Other,0.69,549.0,1920,1200,1.44,Intel,0,0,Intel
+1115,1130,Dell,Ultrabook,13.3,8,Windows 10,1.23,1379.0,1920,1080,2.4,Intel,1,0,Intel
+1116,1131,Lenovo,Gaming,17.3,16,Windows 10,4.6,2749.99,1920,1080,2.7,Intel,1,0,Nvidia
+1117,1132,Other,Ultrabook,12.5,8,Windows 10,1.25,1029.0,3840,2160,2.5,Intel,1,0,Intel
+1118,1133,Other,Ultrabook,13.3,16,Windows 10,1.05,2226.0,1920,1080,2.7,Intel,1,0,Intel
+1119,1134,Asus,Gaming,17.3,8,Windows 10,3.52,1312.49,1920,1080,2.6,Intel,1,1,Nvidia
+1120,1135,Other,Notebook,13.3,4,Windows 10,1.35,196.0,1920,1080,1.44,Intel,0,0,Intel
+1121,1136,HP,Notebook,13.3,8,Windows 10,1.16,1690.0,1920,1080,2.3,Intel,1,0,Intel
+1122,1137,HP,Notebook,14.0,8,Other,1.43,1513.0,1920,1080,2.3,Intel,1,0,Intel
+1123,1138,Dell,Notebook,15.6,4,Other,2.09,523.63,1366,768,2.3,Intel,0,1,Intel
+1124,1139,Asus,Notebook,15.6,4,Windows 10,2.0,435.0,1366,768,2.4,Intel,0,1,Intel
+1125,1140,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.8,1669.0,1920,1080,2.5,Intel,1,0,Intel
+1126,1141,Lenovo,2 in 1 Convertible,10.1,4,Windows 10,0.69,479.0,1920,1200,1.44,Intel,0,0,Intel
+1127,1142,HP,Ultrabook,12.5,8,Other,1.26,1895.0,1366,768,2.4,Intel,1,0,Intel
+1128,1143,Lenovo,Gaming,15.6,8,Other,2.4,989.0,1920,1080,2.5,Intel,1,1,Nvidia
+1129,1144,HP,Gaming,17.3,8,Windows 10,3.35,1129.0,1920,1080,2.3,Intel,1,1,Nvidia
+1130,1145,HP,Notebook,15.6,8,Windows 10,2.04,629.0,1366,768,2.7,Intel,0,1,Intel
+1131,1146,Lenovo,2 in 1 Convertible,14.0,8,Other,1.8,2050.38,1920,1080,2.6,Intel,1,0,Nvidia
+1132,1147,Asus,Notebook,14.0,4,Windows 10,1.5,278.0,1366,768,1.1,Intel,0,0,Intel
+1133,1148,HP,Ultrabook,15.6,8,Windows 10,1.84,752.0,1920,1080,2.7,Intel,1,0,Intel
+1134,1149,Acer,Notebook,15.6,4,Windows 10,2.23,616.0,1920,1080,2.5,Intel,0,1,Nvidia
+1135,1150,Lenovo,Notebook,15.6,16,Windows 10,2.5,1099.0,1920,1080,2.5,Intel,0,0,AMD
+1136,1151,HP,Workstation,17.3,8,Other,3.0,3949.4,1920,1080,2.6,Intel,1,0,Nvidia
+1137,1153,Dell,Notebook,15.6,8,Windows 10,2.5,784.0,1366,768,2.5,Intel,0,1,AMD
+1138,1154,Other,Gaming,17.3,16,Windows 10,3.78,2399.0,1920,1080,2.7,Intel,1,1,Nvidia
+1139,1155,HP,Ultrabook,15.6,8,Other,1.88,2171.72,1920,1080,2.5,Intel,1,0,Intel
+1140,1156,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,2.8,2440.0,2560,1440,2.6,Intel,1,0,Intel
+1141,1157,Other,Gaming,15.6,8,Windows 10,2.4,1142.8,1920,1080,2.8,Intel,1,1,Nvidia
+1142,1160,HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,1629.0,1920,1080,2.4,Intel,1,0,Intel
+1143,1161,HP,Workstation,15.6,8,Other,2.59,2229.0,1920,1080,2.6,Intel,1,0,Nvidia
+1144,1162,HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,1799.0,2560,1440,2.6,Intel,1,0,Intel
+1145,1163,HP,Workstation,15.6,8,Other,2.0,1899.0,1920,1080,2.6,Intel,1,0,Nvidia
+1146,1164,HP,Ultrabook,12.5,8,Other,1.26,2296.95,1920,1080,2.5,Intel,1,0,Intel
+1147,1165,Dell,Notebook,15.6,8,Windows 10,2.18,1009.9,1920,1080,2.7,Intel,1,0,Nvidia
+1148,1166,HP,Notebook,15.6,8,Other,1.88,1579.0,1920,1080,2.3,Intel,1,0,Intel
+1149,1167,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.27,2339.0,2560,1440,2.5,Intel,1,0,Intel
+1150,1168,Lenovo,Notebook,15.6,4,Other,1.9,339.0,1366,768,2.0,Intel,0,1,Intel
+1151,1169,HP,Notebook,15.6,4,Windows 10,1.86,297.0,1366,768,1.8,AMD,0,1,AMD
+1152,1170,Lenovo,Notebook,15.6,8,Other,2.32,599.0,1920,1080,2.3,Intel,0,1,AMD
+1153,1171,Dell,Gaming,15.6,8,Windows 10,2.62,1199.0,1920,1080,2.8,Intel,0,1,Nvidia
+1154,1172,Dell,Notebook,15.6,8,Windows 10,2.04,2250.68,3840,2160,2.3,Intel,1,0,Nvidia
+1155,1173,HP,Notebook,15.6,4,Windows 10,1.91,478.89,1920,1080,2.5,AMD,1,0,AMD
+1156,1174,Other,Gaming,17.3,16,Windows 10,2.7,1492.8,1920,1080,2.8,Intel,1,1,Nvidia
+1157,1175,Lenovo,Ultrabook,14.0,12,Other,1.4,2299.0,1920,1080,2.6,Intel,1,0,Intel
+1158,1176,Lenovo,Notebook,15.6,8,Windows 10,2.5,788.49,1920,1080,2.3,Intel,0,0,AMD
+1159,1177,HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,2041.0,2560,1440,2.6,Intel,1,0,Intel
+1160,1178,Lenovo,Ultrabook,14.0,8,Other,1.7,1499.0,1920,1080,2.6,Intel,1,0,Intel
+1161,1179,Other,Gaming,14.0,16,Windows 10,1.7,1769.0,1920,1080,2.6,Intel,1,1,Nvidia
+1162,1180,HP,Gaming,15.6,8,Windows 10,2.62,899.0,1920,1080,2.8,Intel,0,1,Nvidia
+1163,1181,Lenovo,Notebook,15.6,8,Windows 10,2.2,459.0,1366,768,2.0,Intel,0,1,Intel
+1164,1182,HP,Notebook,15.6,4,Other,2.1,476.99,1366,768,2.3,Intel,0,1,Intel
+1165,1183,Dell,Gaming,15.6,8,Windows 10,2.62,1498.0,3840,2160,2.8,Intel,1,1,Nvidia
+1166,1184,Lenovo,Notebook,15.6,8,Windows 10,1.95,1390.0,1920,1080,2.5,Intel,1,0,Intel
+1167,1185,Lenovo,Notebook,15.6,4,Windows 10,2.2,468.0,1920,1080,2.0,Intel,0,1,Nvidia
+1168,1186,HP,Notebook,14.0,2,Windows 10,1.44,249.0,1366,768,1.6,Intel,0,0,Intel
+1169,1187,Other,Gaming,15.6,8,Windows 10,2.2,839.0,1920,1080,2.7,Intel,0,1,Nvidia
+1170,1188,HP,Notebook,15.6,8,Windows 10,1.96,679.0,1920,1080,2.5,Intel,1,0,Intel
+1171,1189,HP,Notebook,15.6,16,Windows 10,2.1,1159.0,1920,1080,1.8,Intel,1,0,Intel
+1172,1190,Asus,Notebook,15.6,4,Windows 10,2.2,369.0,1366,768,1.6,Intel,0,1,Intel
+1173,1191,Lenovo,Notebook,15.6,4,Other,2.1,398.0,1366,768,2.3,Intel,0,1,Intel
+1174,1192,Lenovo,Notebook,15.6,8,Other,2.2,709.0,1920,1080,2.7,Intel,0,1,Nvidia
+1175,1193,Asus,Notebook,14.0,4,Windows 10,2.0,769.0,1920,1080,2.4,Intel,1,0,Intel
+1176,1194,Lenovo,Notebook,15.6,4,Other,2.32,825.0,1920,1080,2.5,Intel,0,0,Intel
+1177,1195,Lenovo,Gaming,15.6,16,Windows 10,3.31,1305.0,1920,1080,2.6,Intel,1,0,Nvidia
+1178,1196,Other,Gaming,15.6,16,Windows 10,1.91,2153.37,1920,1080,2.6,Intel,1,1,Nvidia
+1179,1197,HP,Notebook,15.6,4,Windows 10,2.07,650.0,1366,768,2.3,Intel,0,1,Intel
+1180,1198,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.36,1637.0,2560,1440,2.3,Intel,1,0,Intel
+1181,1199,Lenovo,Ultrabook,15.6,6,Windows 10,1.54,831.0,1920,1080,2.7,Intel,1,0,Nvidia
+1182,1200,Dell,Notebook,15.6,8,Other,1.98,895.01,1920,1080,2.7,Intel,1,0,Nvidia
+1183,1201,Acer,Notebook,15.6,4,Windows 10,2.1,333.0,1366,768,2.0,Intel,0,1,Intel
+1184,1202,HP,Notebook,15.6,6,Windows 10,2.18,799.0,1920,1080,2.6,Intel,0,1,Nvidia
+1185,1203,Asus,Gaming,15.6,8,Windows 10,2.591,909.0,1920,1080,2.6,Intel,1,1,Nvidia
+1186,1204,Dell,2 in 1 Convertible,15.6,16,Windows 10,2.09,1179.0,1920,1080,2.7,Intel,1,0,Intel
+1187,1205,Acer,Notebook,15.6,4,Windows 10,2.23,691.0,1920,1080,2.5,Intel,1,0,Nvidia
+1188,1206,Dell,Ultrabook,13.3,8,Other,1.23,1099.0,3200,1800,2.4,Intel,1,0,Intel
+1189,1207,Acer,Gaming,17.3,16,Windows 10,4.2,2599.0,1920,1080,2.8,Intel,1,1,Nvidia
+1190,1208,Lenovo,Gaming,15.6,8,Windows 10,2.4,819.0,1920,1080,2.5,Intel,0,1,Nvidia
+1191,1209,Other,2 in 1 Convertible,12.3,4,Other,1.15,659.0,2400,1600,2.0,Samsung,0,0,
+1192,1210,HP,Notebook,15.6,4,Windows 10,1.86,485.0,1366,768,2.5,Intel,0,1,Intel
+1193,1211,Other,Ultrabook,12.0,8,Other,0.92,1163.0,2304,1440,1.1,Intel,0,0,Intel
+1194,1212,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.6,1199.0,1920,1080,2.5,Intel,1,0,Intel
+1195,1213,HP,Notebook,15.6,12,Windows 10,2.21,1327.0,1920,1080,2.8,Intel,1,1,Nvidia
+1196,1214,Lenovo,Notebook,15.6,4,Other,1.9,368.0,1366,768,2.0,Intel,0,1,AMD
+1197,1215,Asus,Gaming,17.3,16,Windows 10,4.3,2150.0,1920,1080,2.6,Intel,1,1,Nvidia
+1198,1216,Acer,Notebook,15.6,4,Other,2.1,272.0,1366,768,2.0,Intel,0,1,Intel
+1199,1217,Other,Gaming,17.3,16,Windows 10,2.43,2048.9,1920,1080,2.8,Intel,1,1,Nvidia
+1200,1218,Dell,Notebook,15.6,4,Windows 10,2.3,499.0,1366,768,2.0,Intel,1,0,AMD
+1201,1219,Lenovo,Notebook,15.6,8,Other,2.2,629.0,1366,768,2.5,Intel,0,1,Nvidia
+1202,1220,Dell,2 in 1 Convertible,15.6,16,Windows 10,2.0,1285.0,1920,1080,1.8,Intel,1,0,Intel
+1203,1221,Dell,Ultrabook,13.3,16,Windows 10,1.2,2680.0,3200,1800,2.7,Intel,1,0,Intel
+1204,1222,Asus,Gaming,15.6,8,Windows 10,2.2,1169.0,1920,1080,2.6,Intel,0,1,Nvidia
+1205,1223,Dell,Notebook,15.6,8,Windows 10,2.36,889.0,1920,1080,2.5,Intel,1,0,AMD
+1206,1224,HP,Notebook,15.6,8,Windows 10,1.91,579.0,1366,768,2.5,Intel,1,0,Intel
+1207,1225,Lenovo,Notebook,15.6,4,Windows 10,2.2,299.0,1366,768,2.2,AMD,0,1,AMD
+1208,1226,Acer,Notebook,17.3,8,Windows 10,3.3,629.0,1600,900,2.0,Intel,0,1,Nvidia
+1209,1227,Asus,Gaming,15.6,16,Windows 10,2.2,2449.0,1920,1080,2.8,Intel,1,1,Nvidia
+1210,1228,Other,Ultrabook,12.0,8,Other,0.92,1279.0,2304,1440,1.2,Intel,0,0,Intel
+1211,1229,Asus,Notebook,15.6,16,Windows 10,2.2,1749.0,1920,1080,2.8,Intel,1,1,Nvidia
+1212,1230,Other,Gaming,17.3,16,Windows 10,2.43,1948.99,1920,1080,2.6,Intel,1,1,Nvidia
+1213,1231,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.191,999.0,1920,1080,2.5,Intel,1,0,Intel
+1214,1232,Asus,Gaming,17.3,16,Windows 10,2.9,1949.0,1920,1080,2.8,Intel,1,1,Nvidia
+1215,1233,Acer,Netbook,11.6,2,Other,1.3,174.0,1366,768,1.5,Intel,1,0,Intel
+1216,1234,Acer,Notebook,17.3,4,Windows 10,3.3,598.0,1600,900,2.0,Intel,0,1,Nvidia
+1217,1235,Lenovo,Notebook,17.3,8,Other,2.8,539.0,1600,900,2.5,Intel,0,1,Intel
+1218,1236,Lenovo,Gaming,15.6,8,Windows 10,2.6,1272.0,1920,1080,2.6,Intel,1,1,Nvidia
+1219,1237,Acer,2 in 1 Convertible,14.0,8,Windows 10,1.2,1149.0,1920,1080,1.3,Intel,1,0,Intel
+1220,1238,Lenovo,Notebook,15.6,8,Windows 10,2.3,1529.0,1920,1080,2.6,Intel,1,0,Intel
+1221,1239,Other,Gaming,15.6,8,Windows 10,2.2,1476.11,1920,1080,2.6,Intel,1,1,Nvidia
+1222,1240,HP,Notebook,15.6,6,Windows 10,2.1,529.0,1920,1080,2.7,AMD,0,1,AMD
+1223,1241,Dell,Ultrabook,12.5,8,Other,1.26,1713.37,1920,1080,2.4,Intel,1,0,Intel
+1224,1242,Dell,2 in 1 Convertible,15.0,4,Windows 10,2.08,509.0,1920,1080,2.4,Intel,0,1,Intel
+1225,1243,Asus,Notebook,15.6,4,Windows 10,2.65,309.0,1366,768,1.6,Intel,0,1,Intel
+1226,1244,Dell,Ultrabook,13.3,8,Windows 10,1.29,1477.0,3200,1800,2.7,Intel,1,0,Intel
+1227,1245,Dell,Notebook,15.6,4,Other,2.18,521.86,1366,768,2.5,Intel,0,1,Intel
+1228,1246,Lenovo,Gaming,15.6,16,Windows 10,2.6,1029.0,1920,1080,2.6,Intel,1,1,Nvidia
+1229,1247,Other,Gaming,15.6,8,Windows 10,2.2,1149.0,1920,1080,2.8,Intel,1,1,Nvidia
+1230,1248,Lenovo,Netbook,12.5,16,Windows 10,1.3,1650.0,1920,1080,2.5,Intel,1,0,Intel
+1231,1249,Other,Gaming,14.0,16,Windows 10,1.95,3499.0,1920,1080,2.8,Intel,1,0,Nvidia
+1232,1250,Dell,Notebook,15.6,8,Windows 10,2.3,469.01,1366,768,2.4,Intel,0,1,Intel
+1233,1251,Other,Gaming,17.3,16,Windows 10,2.7,1598.0,1920,1080,2.8,Intel,1,1,Nvidia
+1234,1252,Other,Ultrabook,11.6,4,Other,1.08,959.0,1366,768,1.6,Intel,0,0,Intel
+1235,1253,HP,Notebook,15.6,4,Windows 10,2.1,478.0,1920,1080,2.0,Intel,0,1,Intel
+1236,1254,HP,Ultrabook,14.0,8,Other,1.54,2198.19,2560,1440,2.5,Intel,1,0,Intel
+1237,1255,Dell,Notebook,15.6,4,Other,2.24,737.0,1366,768,2.3,Intel,0,1,Intel
+1238,1256,Other,Gaming,15.6,8,Windows 10,2.3,1169.0,1920,1080,2.6,Intel,1,1,Nvidia
+1239,1257,Lenovo,Notebook,13.3,16,Windows 10,1.4,1499.0,1920,1080,2.7,Intel,1,0,Intel
+1240,1258,Lenovo,Notebook,15.6,6,Windows 10,2.2,597.57,1920,1080,3.6,AMD,1,0,AMD
+1241,1259,Asus,Ultrabook,13.3,8,Windows 10,1.45,1280.0,1920,1080,2.5,Intel,1,0,Intel
+1242,1260,Acer,Notebook,15.6,4,Other,2.4,361.8,1366,768,2.0,Intel,0,1,Intel
+1243,1261,Dell,2 in 1 Convertible,17.3,16,Windows 10,2.77,1799.0,1920,1080,2.7,Intel,1,0,Nvidia
+1244,1262,HP,Notebook,14.0,4,Other,1.54,1099.99,1920,1080,2.3,Intel,1,0,Intel
+1245,1263,Asus,Gaming,15.6,16,Windows 10,2.5,1600.0,1920,1080,2.8,Intel,1,1,Nvidia
+1246,1264,Dell,Notebook,14.0,4,Windows 10,1.6,875.0,1366,768,2.5,Intel,0,1,Intel
+1247,1265,Asus,Gaming,15.6,16,Windows 10,2.34,2325.0,1920,1080,2.6,Intel,1,1,Nvidia
+1248,1266,Lenovo,Notebook,15.6,8,Other,2.3,573.0,1920,1080,2.5,Intel,1,0,Intel
+1249,1267,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,1813.0,3200,1800,1.2,Intel,1,0,Intel
+1250,1268,Dell,Notebook,15.6,4,Other,2.2,324.0,1366,768,1.6,Intel,0,1,Intel
+1251,1269,HP,Notebook,15.6,4,Windows 10,1.86,399.0,1366,768,2.5,AMD,0,1,AMD
+1252,1270,Lenovo,Notebook,15.6,6,Windows 10,2.4,569.0,1920,1080,2.3,Intel,1,0,Nvidia
+1253,1271,Lenovo,Notebook,14.0,8,Windows 10,1.9,1072.0,1920,1080,2.3,Intel,1,0,Intel
+1254,1272,Dell,Notebook,15.6,4,Windows 10,2.2,443.99,1366,768,1.6,Intel,0,1,Intel
+1255,1273,Asus,Notebook,15.6,4,Windows 10,2.0,339.0,1366,768,1.1,Intel,0,1,Intel
+1256,1274,Asus,Gaming,17.3,16,Windows 10,4.0,1900.0,1920,1080,2.6,Intel,1,1,Nvidia
+1257,1275,Dell,Notebook,15.6,4,Windows 10,2.29,490.0,1366,768,2.0,Intel,0,1,Intel
+1258,1276,Lenovo,Notebook,15.6,8,Other,2.32,895.0,1920,1080,2.5,Intel,0,0,AMD
+1259,1277,Other,Gaming,15.6,8,Windows 10,2.4,1229.0,1920,1080,2.6,Intel,1,1,Nvidia
+1260,1278,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,833.01,1920,1080,2.3,Intel,1,0,Intel
+1261,1279,Asus,Ultrabook,13.3,8,Windows 10,1.2,729.0,1920,1080,0.9,Intel,1,0,Intel
+1262,1280,Dell,Notebook,15.6,6,Windows 10,2.3,459.0,1366,768,2.4,Intel,0,1,Intel
+1263,1281,Acer,Notebook,15.6,4,Other,2.4,289.0,1366,768,1.6,Intel,0,1,Intel
+1264,1282,Dell,Notebook,15.6,2,Windows 10,2.2,379.0,1366,768,1.6,Intel,0,1,Intel
+1265,1283,Lenovo,Notebook,15.6,8,Windows 10,2.6,899.0,1920,1080,2.6,Intel,0,1,Nvidia
+1266,1284,HP,Notebook,15.6,6,Windows 10,2.04,549.99,1920,1080,2.9,AMD,0,0,AMD
+1267,1285,Dell,Notebook,15.6,8,Other,2.3,805.99,1366,768,2.7,Intel,0,1,AMD
+1268,1286,HP,Netbook,11.6,2,Windows 10,1.17,209.0,1366,768,1.6,Intel,0,0,Intel
+1269,1287,Asus,Notebook,15.6,4,Windows 10,2.2,720.32,1366,768,2.5,Intel,0,1,Nvidia
+1270,1288,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,638.0,1920,1080,2.5,Intel,1,0,Intel
+1271,1289,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1499.0,3200,1800,2.5,Intel,1,0,Intel
+1272,1290,Lenovo,Notebook,14.0,2,Windows 10,1.5,229.0,1366,768,1.6,Intel,0,0,Intel
+1273,1291,HP,Notebook,15.6,6,Windows 10,2.19,764.0,1366,768,2.5,Intel,0,1,AMD
+1274,1292,Asus,Notebook,15.6,4,Windows 10,2.2,369.0,1366,768,1.6,Intel,0,1,Intel
+1275,1293,Asus,Ultrabook,13.3,8,Windows 10,1.2,729.0,1920,1080,0.9,Intel,1,0,Intel
+1276,1294,Dell,Notebook,15.6,6,Windows 10,2.3,459.0,1366,768,2.4,Intel,0,1,Intel
+1277,1295,Acer,Notebook,15.6,4,Other,2.4,289.0,1366,768,1.6,Intel,0,1,Intel
+1278,1296,Dell,Notebook,15.6,2,Windows 10,2.2,379.0,1366,768,1.6,Intel,0,1,Intel
+1279,1297,Lenovo,Notebook,15.6,8,Windows 10,2.6,899.0,1920,1080,2.6,Intel,0,1,Nvidia
+1280,1298,HP,Notebook,15.6,6,Windows 10,2.04,549.99,1920,1080,2.9,AMD,0,0,AMD
+1281,1299,Dell,Notebook,15.6,8,Other,2.3,805.99,1366,768,2.7,Intel,0,1,AMD
+1282,1300,HP,Netbook,11.6,2,Windows 10,1.17,209.0,1366,768,1.6,Intel,0,0,Intel
+1283,1301,Asus,Notebook,15.6,4,Windows 10,2.2,720.32,1366,768,2.5,Intel,0,1,Nvidia
+1284,1302,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,638.0,1920,1080,2.5,Intel,1,0,Intel
+1285,1303,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1499.0,3200,1800,2.5,Intel,1,0,Intel
+1286,1304,Lenovo,Notebook,14.0,2,Windows 10,1.5,229.0,1366,768,1.6,Intel,0,0,Intel
+1287,1305,HP,Notebook,15.6,6,Windows 10,2.19,764.0,1366,768,2.5,Intel,0,1,AMD
+1288,1306,Asus,Notebook,15.6,4,Windows 10,2.2,369.0,1366,768,1.6,Intel,0,1,Intel
+1289,1307,Asus,Ultrabook,13.3,8,Windows 10,1.2,729.0,1920,1080,0.9,Intel,1,0,Intel
+1290,1308,Dell,Notebook,15.6,6,Windows 10,2.3,459.0,1366,768,2.4,Intel,0,1,Intel
+1291,1309,Acer,Notebook,15.6,4,Other,2.4,289.0,1366,768,1.6,Intel,0,1,Intel
+1292,1310,Dell,Notebook,15.6,2,Windows 10,2.2,379.0,1366,768,1.6,Intel,0,1,Intel
+1293,1311,Lenovo,Notebook,15.6,8,Windows 10,2.6,899.0,1920,1080,2.6,Intel,0,1,Nvidia
+1294,1312,HP,Notebook,15.6,6,Windows 10,2.04,549.99,1920,1080,2.9,AMD,0,0,AMD
+1295,1313,Dell,Notebook,15.6,8,Other,2.3,805.99,1366,768,2.7,Intel,0,1,AMD
+1296,1314,HP,Netbook,11.6,2,Windows 10,1.17,209.0,1366,768,1.6,Intel,0,0,Intel
+1297,1315,Asus,Notebook,15.6,4,Windows 10,2.2,720.32,1366,768,2.5,Intel,0,1,Nvidia
+1298,1316,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,638.0,1920,1080,2.5,Intel,1,0,Intel
+1299,1317,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1499.0,3200,1800,2.5,Intel,1,0,Intel
+1300,1318,Lenovo,Notebook,14.0,2,Windows 10,1.5,229.0,1366,768,1.6,Intel,0,0,Intel
+1301,1319,HP,Notebook,15.6,6,Windows 10,2.19,764.0,1366,768,2.5,Intel,0,1,AMD
+1302,1320,Asus,Notebook,15.6,4,Windows 10,2.2,369.0,1366,768,1.6,Intel,0,1,Intel
