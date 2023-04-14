@@ -13,4 +13,5 @@
 ## Syllabus
 
 Seminar 1. Enviroments (Python, Orange, Excel, ChatGPT), basic data wrangling and visualization, simple statistics.
+Seminar 2. Regression & Classification examples. Linear Regression/Logistic Regression, Decision Trees, K nearest neighbors. Working with categorical data.
 
